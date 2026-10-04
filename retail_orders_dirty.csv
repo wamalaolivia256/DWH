@@ -1,0 +1,526 @@
+Order ID, Customer Name,Gender,AGE,City ,E-mail,Order_Date,Product Category,Qty,Unit Price (KES),Total
+ORD-1395,Faith Kiplagat,Female,18,Nairobi,faith.kiplagat84@example.com,2025-12-20,Groceries,1,1770,1770
+ ORD-1260,Ruth Otieno,Female,39,Mombasa,ruth.otieno40@example.com,29/06/2025,Groceries,3,1290,3870
+ORD-1162,Brian Chebet,M,18,Nakuru,brian.chebet19@example.com,30/08/2025,books,3,2000,6000
+ORD-1101,Moses Nyambura,MALE,53,Eldoret,moses.nyambura65@example.com,2025-12-17,Books,3,2070,6210
+ORD-1361,Brian Kamau, Male ,47,Nairobi,brian.kamau41@example.com,2025-07-21,Home&Kitchen,2,8830,17660
+ORD-1308,Ian Kariuki,MALE,37,Mombasa,ian.kariuki25@example.com,"May 08, 2025",Books,2,1220,2440
+ORD-1132,Joyce Otieno,Female,55,Nairobi,joyce.otieno70@example.com,2025-11-05,Home & Kitchen,1,11100,11100
+ORD-1003,Victor Barasa,M,-,Nakuru,,2025-09-13,clothing,4,4670,18680
+ORD-1464,  Tabitha Barasa ,Female,25,Nakuru,TABITHA.BARASA35@EXAMPLE.COM,07-Nov-2025,Electronics,3,39100,117300
+ORD-1118,george barasa,M,44,Nairobi,george.barasa19@example.com,2025-06-21,home & kitchen,5,11980,59900
+ORD-1065,wanjiru kiplagat,Female ,37,Mombassa,,2025-01-12,Electronics,1,36940,36940
+ORD-1341,Cynthia Barasa,F,43,Nairobi,cynthia.barasa96@example.com,2025-02-25,groceries,2, 1250 ,2500
+ORD-1433,Samuel Kiplagat,Male,,Nakuru,samuel.kiplagat81@example.com,2025-12-03,Electronics,2, 53650 ,107300
+ORD-1313,Kevin Njoroge, Male ,21,Nairobi,kevin.njoroge84@example.com,2025-07-14,Groceries,1, 550 ,550
+ORD-1246,Faith Achieng,Female,52,Nakuru,,2025-08-07,Home & Kitchen,4,1520,6080
+ORD-1051,Samuel Wafula, Male ,18,mombasa,?,23/01/2025,Home & Kitchen,4,4580,18320
+ORD-1283,Brian Kariuki,Male,39,nakuru,brian.kariuki86@example.com,13/08/2025,Clothing,1,2770,2770
+ORD-1385,Cynthia Omondi,Female,24,Mombasa,cynthia.omondi4@example.com,2025-11-04,Books,500,3240,9720
+ORD-1115,Wanjiru Wambui,Female,38,,wanjiru.wambui58@example.com,2025-03-20,clothing,3,4580,13740
+ORD-1138,Moses Wafula,?,34,Eldoret,moses.wafula56@example.com,2025-10-06,Home and Kitchen,four,Ksh11110,44440
+ORD-1244,Samuel Kamau,Male,35,,samuel.kamau51@example.com,13-Jul-2025,Books,1,1890,1390
+ORD-1281,Samuel Omondi, Male ,40,Eldoret,samuel.omondi19@example.com,2025-10-18,Clothing,4,3380,13520
+ORD-1089,Samuel Mutua,Male,53,Mombasa,samuel.mutua82@example.com,"June 02, 2025",Groceries,1,500,500
+ORD-1280,Quentin Mutua,Male,30,Nairobi,quentin.mutua78@example.com,2025-10-31,-,3, 1050 ,3150
+ORD-1318,Wanjiru Achieng,Female,24,Mombasa,wanjiru.achieng59@example.com,13/03/2025,Books,4,2620,10480
+ORD-1435,Ian Wambui,M,25,Mombasa,ian.wambui92@example.com,02-Aug-2025,Books,5,1030,5150
+ORD-1168,Brian Mutua,Male,44,Nakuru, brian.mutua18@example.com ,22-Jul-2025,Home & Kitchen,5,5670,29350
+ORD-1377,Victor Wambui,Male,27,Nakuru,victor.wambui74@example.com,12-Jun-2025,Groceries,4,"1,570",6280
+ORD-1216,Moses Achieng,Male,42,Nairobi,moses.achieng59example.com,2025-03-08,Groceries,5,2330,11650
+ORD-1445,Purity Barasa,female,n/a,,purity.barasa58@example.com,2025-02-01,Groceries,5,470,2350
+ORD-1271,Ruth Nyambura,Female,38,Nairobi,ruth.nyambura40@example.com,,Electronics,5,27060,135300
+ORD-1023,Lucy Omondi,Female,40,Mombasa,lucy.omondi49@example.com,2025-09-02,Electronics,1,31250,31250
+ORD-1270,Faith Kamau,Female,20,Kisumu,FAITH.KAMAU47@EXAMPLE.COM,2025-06-08,Electronics,1,26960,26960
+ORD-1350,  Quentin Kariuki ,Male,32,Nairobi,quentin.kariuki51@example.com,10-Feb-2025,Groceries,2,490,980
+ORD-1188,Quentin Nyambura, Male ,42,Nairobi,QUENTIN.NYAMBURA46@EXAMPLE.COM,"April 19, 2025",Electronics,5,"21,830",109150
+ORD-1013,David Hassan,Male,41,Nairobi,david.hassan40@example.com,2025-05-30,Grocery,4,1690,6760
+ORD-1097,Zawadi Wambui,Female,N/A,Nairobi,zawadi.wambui34@example.com,2025-01-04,Home & Kitchen,4,3320,13280
+ORD-1154,Ian Hassan,Male,40,Nakuru,ian.hassan37@example.com,2025-11-06,,4,810.00,3240
+ORD-1165,Faith Wambui,Female,20,Nairobi,faith.wambui1@example.com,2025-10-03,Groceries,3,1630,4890
+ORD-1032,Amina Mwangi,female,,Nakuru,AMINA.MWANGI18@EXAMPLE.COM,"September 30, 2025",electronics,5,12580,62900
+ORD-1220,Victor Hassan,Male,18,Mombassa,victor.hassan76@example.com,2025-06-08,Electronics,two,12990,25980
+ORD-1390,Quentin Barasa,M,26,Nairobi,quentin.barasa6@example,2025-11-21,Electronics,1,533000,5330
+ORD-1424,Samuel Kariuki,Male,38,Mombasa,samuel.kariuki3@example.com,2025-12-29,Clothes,2,4310,8620
+ORD-1344,David Chebet,M,30,Eldoret,david.chebet39@example.com,11-Nov-2025,Electronics,2,51910,103820
+ORD-1202,Kevin Hassan,Male,20, Nakuru ,kevin.hassan1@example.com,"May 13, 2025",Home & Kitchen,4,1740,6960
+ORD-1055,Esther Omondi,Female,36,Kisumu,esther.omondi85@example.com,03/07/2025,Electronics,2,42910,85820
+ORD-1328,Joyce Achieng,Female,21,Nakuru,joyce.achieng72@example.com,2025-07-10,Home & Kitchen,3,14180,42540
+ORD-1050,Oscar Omondi,Male,52,Mombasa,oscar.omondi51@example.com,2025-04-28,Home & Kitchen,1,8410,8410
+ORD-1322,Esther Otieno,Female,31,Nakuru,ESTHER.OTIENO41@EXAMPLE.COM,2025-03-01,Books,2,1760,3520
+ORD-1025,Ian Barasa,M,18,Kisumu,ian.barasa55@example.com,2025-04-21,Electronics,5,"KES 11,850",59250
+ORD-1380,Ruth Omondi,FEMALE,27,Kisumu,,2025-03-12,Electronics,1,20370,20370
+ORD-1327,Ruth Mutua,Female,45,Nairobi,ruth.mutua72@example.com,17/02/2025,Groceries,2,2430,4860
+ORD-1270 ,Faith Kamau,Female,20,Kisumu,FAITH.KAMAU47@EXAMPLE.COM,2025-06-08,Electronics,1,26960,26960
+ORD-1412,Yusuf Kariuki,M,47,,yusuf.kariuki11@example.com,11/12/2025,Clothing,3,1790,5370
+ORD-1382,Yusuf Nyambura,Male,18,Mombasa,YUSUF.NYAMBURA47@EXAMPLE.COM,18-Mar-2025,Books,5,"2,720",13600
+ORD-1463,Naomi Kariuki,Female,23,Eldoret,naomi.kariuki8@example.com,2025-09-16,Groceries,2, 2110 ,4220
+ORD-1447,Brian Wambui,Male,49,Nairobi,brian.wambui17@example.com,2025-03-07,Clothing,5,Ksh5310,26550
+ORD-1401,Esther Hassan,FEMALE,31,Nairobi,,2025-05-23,Books,3, 640 ,1920
+ORD-1274,Oscar Njoroge,Male,41,Nairobbi,oscar.njoroge93@example.com,09-Jan-2025,Electronics,2,11560,23120
+ORD-1146,Joyce Chebet,FEMALE,45,NAIROBI,JOYCE.CHEBET46@EXAMPLE.COM,2025-07-04,Electronics,4,56380,225520
+ORD-1431,Lucy Mwangi,Female ,40,Kisumu,lucy.mwangi94@example.com,2025-07-27,Clothes,3,5680,17040
+ORD-1256,Esther Kamau,F,35,Nairobi,esther.kamau24@example.com,2025-09-20,clothing,3,2660,7980
+ORD-1040,George Barasa,Male,24,Nakuru,george.barasa53@example.com,2025-05-02,Clothing,4,"1,780",7120
+ORD-1324,Moses Otieno,Male,27,Mombasa,moses.otieno89@example.com,2025-03-13,Books,4,3400,13600
+ORD-1473,  Brian Omondi ,,31,Nairobi,brian.omondi43@example.com,2025-04-12,Home & Kitchen,2,6200,12400
+ORD-1243,Esther Nyambura,Female,44,Eldoret,esther.nyambura71@example.com,08-Oct-2025,Electronics,3,N/A,50400
+ORD-1259,Lucy Kiplagat,F,47,Nairobi,lucy.kiplagat78@example.com,04-Jul-2025,groceries,5,Ksh2280,11400
+ORD-1082,Faith Omondi,Female,64,Mombassa,faith.omondi62@example.com,2025-07-13,Clothing ,3,2870,8610
+ORD-1248,Kevin Kiplagat,M,39,Kisumu ,kevin.kiplagat35@example.com,2025-04-21,Electronics,five,39340.00,196700
+ORD-1221,Faith Kariuki,Female ,25,nakuru,faith.kariuki19@example.com,2025-11-07,Electronics,5,51920,259600
+ORD-1217,PURITY KARIUKI,Female,36,Nairobi,purity.kariuki57@example.com,"December 03, 2025",Books,2,"3,260",6520
+ORD-1113,Naomi Otieno,Female,32,Eldoret,naomi.otieno34@example.com,2025-11-18,Clothing,3,3990,11970
+ORD-1340,Zawadi Hassan,F,34,Mombasa,zawadi.hassan97@example.com,2025-02-03,,1,910,910
+ORD-1470,David Achieng,Male,42,Kisumu ,david.achieng81@example.com,2025-03-15,Books,3,1780,5340
+ORD-1232,Quentin Wafula,male,45,Nairobi,quentin.wafula95@example.com,2025-03-04,Home & Kitchen,250,1700,5100
+ORD-1213,Tabitha Wambui,Female,52,Mombasa,tabitha.wambui45@example.com,2025-04-09,Home & Kitchen,2,5480,10960
+ORD-1488,Purity Otieno,Female,26,Nairobi,purity.otieno80@example.com,17-Feb-2025,Electronics,5,16460,82300
+ORD-1187,Faith Mutua,Female,49,Nairobi,faith.mutua98@example.com,"January 01, 2025",Clothing,4,4090,16360
+ORD-1334,Naomi Njoroge,Female,33, Nairobi,naomi.njoroge41@example.com,2025-09-09,Groceries,1,1160,1160
+ORD-1236,Victor Wafula,Male,24,Nakuru,victor.wafula9@example.com,,Clothing,2,2650,5300
+ORD-1159,George Mutua,MALE,36,Nairobi,george.mutua43@example.com,29/10/2025,Groceries,3,1390,4170
+ORD-1359,Lucy Achieng,Female,37,Nakuru,lucy.achieng87@example.com,18/01/2025,Books,2,1660,3320
+ORD-1237,Ruth Chebet,Female,NULL,Nairobi,ruth.chebet4@example.com,01-Feb-2025,ELECTRONICS,5,38280,191400
+ORD-1179,Kevin Kiplagat,Male,41,Nakuru,kevin.kiplagat90@example.com,2025-05-28,Books,2,,2160
+ORD-1090,Esther Barasa,Female ,31,,esther.barasa44@example.com,2025-07-03,Books,5,750,3750
+ORD-1289,Tabitha Achieng,female,37,Kisumu,tabitha.achieng70@example.com,"June 11, 2025",Groceries,1,2400,2400
+ORD-1422,Tabitha Mutua,Female,,Eldoret,tabitha.mutua34@example.com,2025-07-09,Clothing,3,2900,8700
+ORD-1060,David Wambui,Male,40,Mombasa,david.wambui9@example.com,2025-09-21,Books,1,670,670
+ORD-1235,Joyce Hassan,Female,18,Mombasa,joyce.hassan70@example.com,2025-06-09,Books,5,3410,17050
+ORD-1478,Moses Otieno,Male,44,Mombassa, moses.otieno54@example.com ,2025-04-25,electronics,1,9240,19239
+ORD-1351,Kevin Kiplagat,Male,32, Nairobi,kevin.kiplagat26@example.com,09/08/2025,Clothing,1,5600,5600
+ORD-1443,Ruth Hassan,Female,,Mombasa,ruth.hassan44@example.com,2025-07-26,Clothing,3,3880,11640
+ORD-1245,George Kariuki,Male,39,mombasa,george.kariuki42@example.com,2025-12-03,Electronics,3,30770,92310
+ORD-1316,Cynthia Kamau,Female ,51,Nakuru,cynthia.kamau44@example.com,2025-09-04,Grocery,4, 1170 ,4680
+ORD-1485,Naomi Otieno,female,19,Kisumu,naomi.otieno6@example.com,2025-08-09,Book,1,"KES 2,460",2460
+ORD-1369,quentin chebet,Male,36,Kisumu,quentin.chebet89@example.com,2025-07-21,Home & Kitchen,3,3500,10500
+ORD-1120,Ruth Mwangi,F,25,Mombasa,ruth.mwangi7@example.com,28/07/2025,Clothing,1,1850,1850
+ORD-1468,George Chebet, Male ,45,Eldoret,george.chebet67@example.com,2025-09-04,Electronics,5,20120,100600
+ORD-1376,Amina Mwangi,,34,kisumu,,2025-09-15,Grocery,3,KES 400,1200
+ORD-1109,Samuel Barasa,Male,32,-,samuel.barasa39@example.com,13-Jun-2025,Books,two,2190,4380
+ORD-1145,Tabitha Nyambura,F,70,Mombasa,tabitha.nyambura32@example.com,2025-08-17,Books,5,1560,7800
+ORD-1164,Yusuf Wafula,Male,40,Nairobi,yusuf.wafula74@example.com,20-Jan-2025,Electronics,4,"KES 38,870",155480
+ORD-1173,DAVID KIPLAGAT,Male,51,Nakuru,david.kiplagat33@example.com,2025-11-20,Home & Kitchen,4,1080,4320
+ORD-1388,  Cynthia Nyambura ,Female,18,Nairobi,cynthia.nyambura56@example.com,"July 22, 2025",Clothing,5,2530,12650
+ORD-1030,Victor Wambui,MALE,38,KISUMU,victor.wambui31@example.com,2025-06-21,Clothing,5,3350,16750
+ORD-1022,Zawadi Hassan,Female,19,Mombasa,zawadi.hassan3@example.com,2025-04-18,Groceries,2,1520,
+ORD-1278,David Kariuki,Male,33,kisumu,david.kariuki86@example.com,2025-01-21,Electronics,4,28710,114840
+ORD-1031,Joyce Wafula,Female,22,Nairobi,joyce.wafula26@example.com,2025-05-19,Books,1,2690,2690
+ORD-1357,Amina Mwangi,F,30,Kisumu,,2025-09-02,Clothing ,4,690,2760
+ORD-1020,David   Hassan,Male,-5,Mombasa,david.hassan41@example.com,2025-10-04,electronics,4,8730,34920
+ORD-1486,Joyce   Hassan,Female,-,Mombasa,joyce.hassan59@example.com,2025-07-07,Groceries,2,1770,3540
+ORD-1052,Oscar Achieng,Male,35,Kisumu,unknown,"September 26, 2025",Clothing,2,2520,5040
+ORD-1196,Zawadi Mwangi,Female,47,Nairobi,zawadi.mwangi18@example.com,2025-03-01,Home & Kitchen,1,3300,3300
+ORD-1273,Joyce Chebet,Female,31,Nairobi,joyce.chebet89@example.com,,Clothing,2,4880,9760
+ORD-1228,Faith   Mwangi,,27,Mombasa,n/a,,Groceries,4,2190,8760
+ORD-1362,Quentin Kariuki,Male,32,Mombasa,quentin.kariuki83@example.com,2025-07-31,Electronics,4, 58190 ,
+ORD-1370,Oscar Mwangi,Male,38,Nairobi,oscar.mwangi34@example.com,"February 07, 2025",Groceries,1,1670.00,1670
+ORD-1056,Purity Mwangi,,35,Eldoret,purity.mwangi92@example.com,10-Jul-2025,Home & Kitchen,4,2000,8000
+ORD-1459,Amina Mwangi,Female,,Eldoret., amina.mwangi67@example.com ,2025-02-02,Groceries,5,1170,5850
+ORD-1002,Samuel Kiplagat,male,40,Nairobi,,"June 14, 2025",Groceries,5,1160,5800
+ORD-1496,  Zawadi Hassan ,Female,28,Nairobi,zawadi.hassan78@example.com,2025-08-09,Books,1,"KES 2,250",2250
+ORD-1058,Ruth Hassan,n/a,48,Mombasa,ruth.hassan17@example.com,2025-03-03,Electronics,1,38510,38510
+ORD-1381,Faith Njoroge,FEMALE,27,Nairobi,faith.njoroge72@example.com,"January 27, 2025",Home and Kitchen,2,1360,
+ORD-1253,Victor Kamau,Male,37, Nairobi,VICTOR.KAMAU15@EXAMPLE.COM,2025-10-20,Home & Kitchen,0,7590,15180
+ORD-1340,Zawadi Hassan,F,34,Mombasa,zawadi.hassan97@example.com,2025-02-03,,1,910,910
+ORD-1450,Tabitha Kariuki,Female,50,Nairobi,tabitha.kariuki14@example.com,2025-10-29,Electronics,2,17980,35960
+ORD-1469,Zawadi   Kariuki,Female,28,kisumu,zawadi.kariuki22@example.com,31/03/2025,Books,4,1790,7160
+ORD-1242,Victor Wafula,Male,51,Kisumu,VICTOR.WAFULA18@EXAMPLE.COM,04/06/2025,Clothing,4,3470,13880
+ORD-1074,Moses Kariuki,M,41,Nakuru,moses.kariuki61@example.com,2025-01-26,Home & Kitchen,4,1570.00,7280
+ORD-1449,Naomi Nyambura,F,30,Kisumu,naomi.nyambura23@example.com,2025-04-24,Electronics,3,53980,161940
+ORD-1439,George Njoroge,Male,42,Nakuru,george.njoroge79@example.com,03/12/2025,BOOKS,5,2630,13150
+ORD-1489,RUTH CHEBET,Female,,Nairobi,ruth.chebet94@example.com,"January 08, 2025",?,2,48710,97420
+ORD-1080,Yusuf Hassan,Male,57,Nairobi,yusuf.hassan42@example.com,2025-04-20,Home & Kitchen,2,1310,2620
+ORD-1261,Purity Barasa,Female,18,Eldoret,purity.barasa78@example.com,2025-03-13,Books,1, 1020 ,1020
+ORD-1026,Cynthia Njoroge,Female,46,Eldoret,cynthia.njoroge76@example.com,2025-12-09,Clothing,4,4500,18000
+ORD-1204,Lucy Otieno,Female,25,Nairobi, lucy.otieno20@example.com ,2025-06-19,Clothing,2,3720.00,7440
+ORD-1293,Joyce Mwangi,,25,Mombasa,joyce.mwangi13@example.com,2025-01-11,Electronics,5,8150.00,40750
+ORD-1368,Yusuf Mwangi,Male,29,Nairobi,yusuf.mwangi93@example.com,28-Aug-2025,Books,1,3270,3270
+ORD-1481,Joyce Achieng,F,42,Nairobi,joyce.achieng38@example.com,2025-02-15,Books,4,1640,6560
+ORD-1352,Samuel   Achieng,Male,21,Nairobi,samuel.achieng28@example.com,,Clothing,2,680,1360
+ORD-1108,Samuel Chebet,M,18,NBO,samuel.chebet24@example.com,2025-04-03,Home & Kitchen,5,10340,51700
+ORD-1014,Ian Otieno,Male,30,,ian.otieno46@example.com,"September 12, 2025",Electronic,1,Ksh44450,44450
+ORD-1147,Ian Wafula,M,18,Eldoret,ian.wafula68@example.com,23-Apr-2025,Home and Kitchen,1,,3110
+ORD-1114,Zawadi Omondi,Female,18,n/a,zawadi.omondi88@example.com,2025-05-07,Groceries,three,780.00,2340
+ORD-1407,Samuel Hassan,MALE,,Kisumu,samuel.hassan63@example.com,2025-03-11,Clothing,4,4460.00,17840
+ORD-1155,Amina Omondi,F,33,Nairobi,amina.omondi12@example.com,2025-05-30,Electronics,2,56730,113460
+ORD-1059,Lucy Chebet,Female ,53,Mombasa,lucy.chebet79@example.com,2025-12-02,Home & Kitchen,3,11650,34950
+ORD-1193,Ian Kamau,Male,33,Nakuru,ian.kamau81@example.com,2025-04-08,Electronics,one,52200,52200
+ORD-1098,Oscar Wambui,Male,,Nairobi,oscar.wambui59@example.com,2025-02-21,Home & Kitchen,3,5170,15510
+ORD_1307,George Omondi,Male,36,nakuru, george.omondi50@example.com ,2025-12-11,Electronics,2,"KES 54,720",109440
+ORD-1490,cynthia omondi,Female ,27,Nairobi,cynthia.omondi51@example.com,18-Oct-2025,Electronics,1,5515000,55150
+ORD-1041,Samuel Kiplagat,N/A,,Nakuru,samuel.kiplagat42@example.com,"December 05, 2025",Clothing,3,"2,560",7680
+ORD-1389,Quentin Mwangi,Male,46,nakuru,,2025-01-03,groceries,4,790,3160
+ORD-1227,Lucy Wafula,Female,40,Eldoret,lucy.wafula40@example.com,2025-03-14,Electronics,1,57050,57050
+ORD-1240,George Hassan,Male,60, Nakuru ,george.hassan79@example.com,2025-07-05,Home & Kitchen,4,3670,14680
+ORD-1079,Oscar Chebet,Male,26,Nairobi,oscar.chebet41@example.com,2025-12-21,Home & Kitchen,4,,39240
+ORD-1028,Zawadi Njoroge,Female,35,Eldoret,zawadi.njoroge51@example.com,2025-08-15,Clothing,5, 2100 ,10500
+ORD-1446,Ian Achieng,Male,25,Nairobi,ian.achieng51@example.com,27/06/2025,Home & Kitchen,4,,17680
+ORD-1321,Moses Barasa,Male,23,Nairobi,moses.barasa47@example.com,"November 12, 2025",Clothing,4,"KES 1,070",4280
+ORD-1239,Naomi Otieno,Female,3,Eldoret,,2025-02-24,Clothes,1,850,850
+ORD-1268,Victor Achieng,Male,39,Nairobi,victor.achieng98@example.com,2025-05-13,Home & Kitchen,1,8910,8910
+ORD-1212,amina hassan,,36,Eldoret,amina.hassan43@example.com,2025-06-10,Groceries,2,1080,2160
+ORD-1347,Lucy Chebet,NULL,41,Eldoret,lucy.chebet57@example.com,2025-01-21,Home & Kitchen,2,"KES 12,910",
+ORD-1057,Esther Barasa,Female,24,Nairobi,esther.barasa78@example.com,30/12/2025,Groceries,3,1980,5940
+ORD-1168,Brian Mutua,Male,44,Nakuru, brian.mutua18@example.com ,22-Jul-2025,Home & Kitchen,5,5670,29350
+ORD-1062,Tabitha Wafula,F,?,MOMBASA , tabitha.wafula15@example.com ,2025-12-17,Grocery,2,480,960
+ORD-1403,Yusuf Nyambura,Male,35,Nakuru,yusuf.nyambura62@example.com,2025-11-05,Electronics,1,42740,42740
+ORD-1111,Purity Njoroge,F,18,NBO,purity.njoroge57@example.com,2025-02-13,Home & Kitchen,3,"2,740",8220
+ORD-1084,Faith Njoroge,,43,Nakuru,faith.njoroge12@example.com,2025-01-16,Groceries,5,1290,6450
+ORD-1410,Joyce Hassan,Female,18,Kisumu,joyce.hassan44@example.com,"September 23, 2025",Books,3, 1380 ,4140
+ORD-1377,Victor Wambui,Male,27,Nakuru,victor.wambui74@example.com,12-Jun-2025,Groceries,4,"1,570",6280
+ORD-1384,tabitha mwangi,Female,44,Nairobi, tabitha.mwangi35@example.com ,06-Oct-2025,Clothing,2,1490,2980
+ORD-1453,David Wafula,Male,43,Nairobi,david.wafula30@example.com,2025-09-16,?,5, 110 ,550
+ORD-1129,Wanjiru Omondi,Female,24,KISUMU,N/A,2025-04-01,Books,5,"KES 1,110",5550
+ORD-1258,Moses Omondi,Male,-5,Eldoret,moses.omondi64@example.com,2025-08-18,ELECTRONICS,five, 31880 ,159400
+ORD-1096,Cynthia Barasa,FEMALE,26,Nairobi,cynthia.barasa53@example.com,06/11/2025,Clothing,2,3240,16479
+ORD-1441,Faith Wafula,female,51,NAIROBI,faith.wafula23@example.com,2025-10-06,Groceries,3,350,1050
+ORD-1177,Moses Wafula,M,35,Kisumu,moses.wafula40@example.com,2025-07-16,Grocery,4,160.00,640
+ORD-1442,Wanjiru Wafula,Female,33,Nairobi,wanjiru.wafula79@example.com,2025-07-25,Groceries,2,1280,2560
+ORD-1499,Joyce Omondi,,36,Nairobi,joyce.omondi8@example.com,02-May-2025,Home & Kitchen,3,2370,7110
+ORD-1141,George Kamau,Male,23,Mombasa,george.kamau90@example.com,,Home&Kitchen,1, 13000 ,13000
+ORD-1482,Kevin Kariuki,Male,,Eldoret,kevin.kariuki95@example.com,2025-04-20,Grocery,2,1660,3320
+ORD-1437,Tabitha Wambui,F,25,nairobi,tabitha.wambui43@example.com,09-Mar-2025,Groceries,4,"KES 1,350",5400
+ORD-1387,Kevin Mutua, Male ,39,Mombasa,kevin.mutua82@example.com,2025-04-25,Books,3,1510,4530
+ORD-1494,Joyce Barasa,Female,35,,joyce.barasa71@example.com,21/03/2025,electronics,4,43760,175040
+ORD-1358,Moses Barasa,Male,41,MOMBASA ,moses.barasa41@example.com,2025-12-24,Clothing,1,2020,2020
+ORD-1336,Kevin Achieng,MALE,36,Mombasa,kevin.achieng80@example.com,2025-10-07,Clothing,3, 2670 ,8010
+ORD-1267,  Zawadi Chebet ,Female,35, Nakuru ,zawadi.chebet76@example.com,2025-08-11,Home & Kitchen,2,N/A,23640
+ORD-1264,Ruth Otieno,Female,29,Nairobi,ruth.otieno82@example.com,2025-01-22,home & kitchen,5,"KES 6,520",32600
+ORD-1081,Cynthia Hassan,-,38,Nairobi,cynthia.hassan64@example.com,2025-07-19,Clothing,3,Ksh4360,13080
+ORD-1484,Halima Kamau,F,26,Eldoret,HALIMA.KAMAU4@EXAMPLE.COM,17/11/2025,Books,2,3030,6060
+ORD-1326,Moses Kamau,Male,18,Mombasa,moses.kamau72@example.com,14-Sep-2025,Home & Kitchen,4,1870,7480
+ORD-1476,Purity Hassan,Female,18,Nairobi,purity.hassan61@example.com,01/10/2025,Clothes,5,700,3500
+ORD-1218,Yusuf Nyambura, Male ,18,MOMBASA ,NULL,2025-05-03,BOOKS,3,380,1140
+ORD-1452,George Wafula,Male,NULL,Nairobi,george.wafula73@example.com,2025-04-03,Home & Kitchen,3,3180,9540
+ORD-1284,Oscar Wafula,n/a,unknown,unknown,oscar.wafula30@example.com,2025-10-12,Home & Kitchen,5,13350,66750
+ORD-1305,Purity Chebet,Female,32,Nairobi,,2025-09-16,Clothing,4,,18120
+ORD-1456,Esther Achieng,FEMALE,50,Kisumu ,esther.achieng4@example.com,2025-12-28,home & kitchen,1, 7860 ,7860
+ORD-1053,Faith   Njoroge,female,48,Mombasa,faith.njoroge48@example.com,2025-11-08,Home & Kitchen,5,13810,
+ORD-1171,Wanjiru Hassan,female,45,kisumu,,"September 22, 2025",Electronics,-1,32500,130000
+ORD-1200,Moses Otieno,Male,25,Nakuru,moses.otieno26@example.com,15-Aug-2025,Books,4,1860,7440
+ORD-1294,Cynthia Omondi,Female,33,Kisumu,cynthia.omondi63@example.com,2025-04-23,Electronic,4,53400,213600
+ORD-1139,  David Chebet ,Male,38,Mombassa,david.chebet79@example.com,2025-01-13,books,3,340,
+ORD-1404,Wanjiru Nyambura,Female,29,MOMBASA ,wanjiru.nyambura69@example.com,2025-12-03,BOOKS,3,?,3990
+ORD-1296,Kevin Kamau,Male,43,Nakuru,kevin.kamau33@example.com,"September 09, 2025",Home & Kitchen,2,12760.00,25620
+ORD-1066,Ruth Barasa,FEMALE,40,Eldoret,ruth.barasa44@example.com,26-Apr-2025,Grocery,2,1200,2400
+ORD-1436,Ruth Hassan,Female,43,mombasa,ruth.hassan24@example.com,02-Sep-2025,Clothing,2,2090,4180
+ORD-1277,  Victor Wambui ,M,unknown,nakuru,victor.wambui75@example.com,n/a,Groceries,2,1590,3180
+ORD-1306,Cynthia Kariuki,Female,32,Mombasa,cynthia.kariuki32@example.com,13-Mar-2025,Books,1,2310,2310
+ORD-1222,Naomi Wafula,Female,33,Eldoret,naomi.wafula48@example.com,2025-07-04,Electronics,1,49410,59409
+ORD-1479,Halima Achieng,Female,36, Nairobi,,2025-05-26,Groceries,1,2360,2360
+ORD-1099,Esther Nyambura,FEMALE,49, Nakuru ,esther.nyambura61@example.com,2025-10-21,Groceries,4,2460,9840
+ORD-1295,Joyce Chebet,F,,NBO,joyce.chebet17@example.com,25/01/2025,Home and Kitchen,2,7440,14880
+ORD-1148,Ruth Achieng,F,28,Nairobi,ruth.achieng87@example.com,2025-08-02,Electronic,1,46200.00,46200
+ORD-1015,Yusuf Kamau,Male,31,kisumu,YUSUF.KAMAU38@,02-Mar-2025,Groceries,4,1170,4680
+ORD-1163,Tabitha Omondi,Female,23,Nairobi,tabitha.omondi91@example.com,2025-10-30,Clothing,3,1340,
+ORD-1301,Samuel Achieng,male,21,Mombasa,samuel.achieng75@example.com,2025-01-14,Books,5,2050,10250
+ORD-1046,Tabitha Njoroge,female,39,Nairobi,tabitha.njoroge84@example.com,2025-10-17,Books,3,3100,9300
+ORD-1086,Wanjiru Otieno,female,45,Kisumu,wanjiru.otieno37@example.com,"June 01, 2025",Groceries,5,2160,10800
+ORD-1037,Moses Kiplagat,Male,,Mombasa,moses.kiplagat91@example.com,2025-12-17,Clothing ,5,"KES 2,080",-
+ORD-1440,Brian Kariuki,Male,NULL,Eldoret, brian.kariuki73@example.com ,24/05/2025,Electronics,3,49580,148740
+ORD-1386,Ruth Mwangi,female,56,Mombasa,ruth.mwangi21@example.com,"May 01, 2025",clothing,2,5920,11840
+ORD-1418,Halima Barasa,Female,27,Nairobi,halima.barasa54@example.com,2025-11-30,Clothing,one,1750,1750
+ORD-1206,Esther Njoroge,Female,39,kisumu,esther.njoroge36@example.com,2025-07-11,Clothing,2, 800 ,1600
+ORD-1408,Yusuf Hassan,MALE,32, Nakuru ,?,2025-02-08,Electronics,4,9670,38680
+ORD-1364,ian hassan,Male,46,Nairobi,ian.hassan59@example.com,2025-05-03,Clothing ,4,820,3280
+ORD-1172,Joyce Wafula,Female ,39,Kisumu,joyce.wafula13@example.com,"April 05, 2025",Home & Kitchen,3,7050,
+ORD-1073,Cynthia Barasa,Female,32,Kisumu,cynthia.barasa19@example.com,2025-01-20,Grocery,1,1860,1860
+ORD-1292,Quentin Wambui,Male,47,-, quentin.wambui21@example.com ,17/04/2025,Books,2,840,1680
+ORD-1104,Brian Omondi,n/a,41,Nakuru,BRIAN.OMONDI79@EXAMPLE.COM,17/07/2025,Home&Kitchen,1,"KES 8,690",8690
+ORD-1249,Yusuf Kariuki,Male,36,Kisumu,n/a,2025-08-18,Home & Kitchen,2,6840,13680
+ORD-1421,Moses Otieno, Male ,35,Nairobi,moses.otieno77@example.com,2025-03-05,Electronics,5,36790,183950
+ORD-1016,Oscar Wafula,Male,40,kisumu,oscar.wafula95@example.com,04-May-2025,books,1,680,680
+ORD-1363,Naomi Kamau,Female,32, Nairobi,naomi.kamau26@example.com,2025-04-26,Clothing,250,,18550
+ORD-1091,Victor Omondi,MALE,25,Eldoret., victor.omondi15@example.com ,2025-12-02,Electronics,3, 30280 ,90840
+ORD-1088,Samuel Nyambura,MALE,35,Nairobi,samuel.nyambura63@example.com,2025-12-04,Electronics,4,25720,102880
+ORD-1497,Wanjiru Hassan,Female,27,Eldoret,wanjiru.hassan65@example.com,2025-10-29,Books,-1,1810,5430
+ORD-1140,Yusuf Mwangi,Male,39,N/A,yusuf.mwangi67@example.com,2025-02-28,Home & Kitchen,5,6410,32050
+ORD-1194,Brian Mwangi,MALE,36,Mombasa,brian.mwangi26@example.com,31/04/2025,Groceries,2,1870.00,3740
+ORD-1205,Wanjiru Mwangi,FEMALE,34,Nakuru,wanjiru.mwangi18@example.com,2025-07-10,Groceries,2,1110,2220
+ORD-1102,David   Njoroge,Male,18,Nairobi,david.njoroge34@example.com,2025-08-21,Books,4,2700,10800
+ORD-1238,George Kariuki,Male,20,Nairobbi,george.kariuki92@example.com,2025-08-31,Books,2,"KES 1,950",3900
+ORD-1420,Brian   Wambui,M,38,Kisumu ,BRIAN.WAMBUI61@EXAMPLE.COM,"July 16, 2025",Books,5,,11600
+ORD-1174,Yusuf Barasa,Male,32,Nairobi,yusuf.barasa13@example.com,04-Mar-2025,Home & Kitchen,2,10280,20560
+ORD-1170,Samuel Kiplagat,Male,50,Mombasa,samuel.kiplagat36@example.com,18/09/2025,unknown,2,57060,114120
+ORD-1378,Brian Otieno,MALE,39,Mombasa,brian.otieno85@example.com,2025-02-26,electronics,3,16110,48330
+ORD-1157,wanjiru nyambura,F,41,Nairobi,wanjiru.nyambura34@example.com,30-Sep-2025,Electronics,5,52980,264900
+ORD-1333,Ian Wambui,Male,27,Nairobi, ian.wambui15@example.com ,2025-04-09,Home and Kitchen,3, 2810 ,8430
+ORD-1070,GEORGE KIPLAGAT,Male,18,Nakuru,george.kiplagat6@example.com,2025-02-27,Books,1,320,320
+ORD-1133,Cynthia Wambui,female,23,Nairobi,cynthia.wambui15@example.com,2025-10-11,,3,11060.00,33180
+ORD-1060,David Wambui,Male,40,Mombasa,david.wambui9@example.com,2025-09-21,Books,1,670,670
+ORD-1319,Naomi Njoroge,Female,43, Nairobi,naomi.njoroge22@example.com,2025-09-28,Books,3,1450,4350
+ORD-1103,Moses Omondi,M,18,Mombasa,moses.omondi46@example.com,"November 10, 2025",Books,3,"3,450",10350
+ORD-1394,Kevin Njoroge,Male,41, Nakuru ,kevin.njoroge36@example.com,12/11/2025,Home & Kitchen,2,4360,9720
+ORD-1018,Brian Mwangi,Male,40,Mombassa,brian.mwangi20@example.com,2025-09-14,Groceries,5,1190,
+ORD-1150,Cynthia Kariuki,Female,35,Nairobi,cynthia.kariuki11@example.com,19-Nov-2025,Clothing ,4,3230,12920
+ORD-1354,George Omondi,Male,30,Nairobi,N/A,2025-01-17,Groceries,5,"KES 2,330",11650
+ORD-1367,Ruth Mwangi,F,42,Eldoret,ruth.mwangi86@example.com,25-Apr-2025,Home & Kitchen,5,7270,36350
+ORD-1263,Purity Kariuki,Female,40,Nairobi,purity.kariuki30@example.com,31/04/2025,Groceries,2,1440,2880
+ORD-1302,Brian Kiplagat,Male,250,Kisumu , brian.kiplagat52@example.com ,2025-12-17,Home&Kitchen,5,7780,38900
+ORD-1017 ,Kevin Achieng,?,25,Nairobi,kevin.achieng71@example.com,2025-04-06,Home&Kitchen,5,Ksh11860,59300
+ORD-1034,Yusuf Otieno,Male,18,Mombasa,yusuf.otieno67@example.com,2025-01-07,electronics,2,11380,22760
+ORD-1181,Quentin Achieng,Male,40,Mombasa,quentin.achieng26@example.com,2025-04-22,Home & Kitchen,four,4910,19640
+ORD-1184,KEVIN KARIUKI,M,66,Eldoret,kevin.kariuki42@example.com,2025-01-10,Clothing,1, 1350 ,1350
+ORD-1207,Kevin Achieng,Male,20,Nairobi,kevin.achieng10example.com,"September 13, 2025",Books,five,3270,16350
+ORD-1094,Tabitha Omondi,Female,43,Nakuru,TABITHA.OMONDI53@EXAMPLE.COM,2025-09-29,Home & Kitchen,1,,6010
+ORD-1392,Joyce Kamau,F,36,Kisumu,joyce.kamau47@example.com,2025-04-17,groceries,5,220,1100
+ORD-1346,Lucy Kamau,Female,43,KISUMU,lucy.kamau35@example.com,2025-07-04,Groceries,4,,3020
+ORD-1122,Kevin Achieng,M,35,n/a,KEVIN.ACHIENG41@EXAMPLE.COM,26/03/2025,BOOKS,2,1560,3120
+ORD-1353,Kevin Wafula,Male,40,NBO,kevin.wafula9@example.com,30/04/2025,BOOKS,500,1350,2700
+ORD-1078,Quentin Chebet,Male,37,Nairobi,quentin.chebet14@example.com,2025-12-22,Books,3,680,2040
+ORD-1061,Yusuf Omondi,Male,,Nairobi,yusuf.omondi89@example.com,2025-09-27,Clothing,4,2340,9360
+ORD-1495,Tabitha Njoroge,Female,24,Nairobi,tabitha.njoroge7@example.com,2025-03-12,Home & Kitchen,1,9410,9410
+ORD-1125,Victor   Nyambura,Male,23,Mombasa,victor.nyambura92@example.com,2025-04-01,Clothing,2,2320,4640
+ORD-1454,Naomi Njoroge,Female ,53,Mombasa,naomi.njoroge52@example.com,2025-01-21,Groceries,3,540,1620
+ORD-1330,Cynthia Nyambura,FEMALE,27,Nairobi,,2025-06-14,Home & Kitchen,5,2940,14700
+ORD-1154,Ian Hassan,Male,40,Nakuru,ian.hassan37@example.com,2025-11-06,,4,810.00,3240
+ORD-1465,ian kariuki,Male,26,Nairobi,ian.kariuki59@example.com,2025-06-14,Electronics,3,7430,22290
+ORD-1466,Purity Njoroge,n/a,, Nakuru ,purity.njoroge17@example.com,2025-11-26,Groceries,4,540,2160
+ORD-1438,Faith Barasa,Female,39,Nakuru,faith.barasa75@example.com,2025-10-29,Clothing,1,"4,440",4440
+ORD-1024,Naomi Mutua,Female,29,Nairobi,naomi.mutua52@example.com,2025-07-18,Books,2,1360,2720
+ORD-1342,Esther Otieno,Female,28,Mombasa,esther.otieno50@@example.com,2025-10-15,Home & Kitchen,5,4570,22850
+ORD-1371,Tabitha Kariuki,Female,30,Nairobi,tabitha.kariuki14@example.com,2025-06-28,Books,4,3100,12400
+ ORD-1035,Yusuf Nyambura,Male,46,Kisumu,yusuf.nyambura79@example.com,,Home&Kitchen,three,3640,10920
+ORD-1126,victor nyambura,Male,39,Nairobi,victor.nyambura14@example.com,27-Apr-2025,Electronics,1,"6,650",6650
+ORD-1480,Wanjiru Kariuki,F,25,eldoret,wanjiru.kariuki97@example.com,2025-07-18,groceries,4,1560,6240
+ORD-1300,Samuel Chebet,Male,25,KISUMU,samuel.chebet22@example.com,2025-12-30,Electronics,three,8860,26580
+ORD-1178,Ian Chebet,Male,46,Mombasa,ian.chebet32@example.com,2025-04-30,Electronics,5,51820,259100
+ORD-1461,Purity Kiplagat,Female,47,Nairobi,purity.kiplagat14@example.com,12/07/2025,Groceries,3,720,2160
+ORD-1406,Quentin Hassan,Male,33,Mombasa,quentin.hassan5@example.com,22-Jan-2025,Clothing,3,3640,10920
+ORD-1223,Ruth Kiplagat,Female,23,Nakuru,,,books,3,1480,4440
+ORD-1477,Kevin Achieng,Male,31,mombasa,kevin.achieng27@example.com,"February 13, 2025",Books,1,990,990
+ORD-1093,Amina Mwangi,Female,34,Kisumu,amina.mwangi63@example.com,"November 08, 2025",clothing,2,5140.00,20279
+ORD-1069,Victor Otieno,Male,45,n/a,victor.otieno77@example.com,08/11/2025,Clothing,2,1290,2580
+ORD-1036,Tabitha Mwangi,Female,32,mombasa,tabitha.mwangi39@example.com,2025-01-30,Groceries,1,2330,2330
+ORD-1160,Esther Kariuki,Female,42,Nairobi,esther.kariuki17@example.com,2025-02-23,Electronics,3,57380,172140
+ORD-1011,Cynthia Hassan,FEMALE,45,Mombasa,unknown,2025-05-07,Home & Kitchen,2,"KES 1,240",2480
+ORD-1144,Moses Mwangi,Male,56,Nairobi,MOSES.MWANGI3@EXAMPLE.COM,16-Jun-2025,Electronics,2,45640,91280
+ORD-1375,Wanjiru Omondi,FEMALE,unknown,Mombasa,wanjiru.omondi69@example.com,28/12/2025,Clothing,1,2860,2860
+ORD-1127,Yusuf Kamau,Male,47,mombasa,yusuf.kamau61@example.com,2025-09-15,Books,1,650,750
+ORD-1303,Cynthia Mwangi,Female,43,Mombasa, cynthia.mwangi91@example.com ,2025-07-07,Grocery,3,1260,3780
+ORD-1009,Lucy Nyambura,Female,32,Nairobi,n/a,2025-07-04,clothing,4,3020,12080
+ORD-1397,Cynthia Mwangi,Female ,33,Mombasa,cynthia.mwangi36@example.com,?,Books,3,2720,8160
+ORD-1176,Samuel Kariuki,Male,47,Eldoret,samuel.kariuki62@example.com,2025-04-23,Groceries,4,710,2840
+ORD-1231,GEORGE OTIENO,Male,30,Mombasa,george.otieno53@example.com,2025-09-21,,5,12720,63600
+ORD-1210,Wanjiru Barasa,-,36,Nairobi,wanjiru.barasa49@example.com,2025-04-30,Books,1,3430,3430
+ORD-1128,Faith Hassan,Female,,Nairobi, faith.hassan84@example.com ,"April 13, 2025",Home & Kitchen,5,870,4350
+ORD-1143,MOSES OMONDI,Male,27,?,moses.omondi89@example.com,2025-10-12,Book,3,630,1890
+ORD-1241,Oscar Kariuki,Male,46,eldoret,oscar.kariuki23@example.com,2025-06-22,Electronics,2,9070.00,18140
+ORD-1007,Purity Nyambura,Female ,37,Nairobi,,"June 08, 2025",Electronics,2,50610,101220
+ORD-1298,Cynthia Njoroge,Female,NULL,Kisumu,cynthia.njoroge55@example.com,2025-05-04,Books,3,1230,3690
+ORD-1310,Halima Achieng,Female,45,Eldoret,halima.achieng30@example.com,2025-03-24,Clothing,3,508000,15240
+ORD-1254,Joyce Mwangi,Female,23,Nakuru,joyce.mwangi7@example.com,24-Feb-2025,Home & Kitchen,3,10810,42429
+ORD-1426,HALIMA WAFULA,Female,44,Nairobi,halima.wafula65@example.com,17/06/2025,Groceries,1,340,340
+ORD-1457,Moses Barasa,Male,51,Kisumu,moses.barasa79@example.com,2025-05-29,Electronics,1,Ksh53400,N/A
+ORD-1008,Faith Nyambura,Female,39,Kisumu,faith.nyambura1@example.com,2025-10-21,Home & Kitchen,1,3640,3640
+ORD-1156,Joyce Achieng,Female,42,Nairobi,joyce.achieng41@example.com,2025-08-26,Electronics,5,14050,70250
+ORD-1027,Zawadi Achieng,Female,26,nakuru,zawadi.achieng37@example.com,2025-07-19,Clothing,1,3550,3550
+ORD-1266,Zawadi Barasa,Female,37,MOMBASA ,zawadi.barasa95@example.com,2025-05-05,Groceries,2,760,1520
+ORD-1314,Cynthia Omondi,FEMALE,28,Kisumu,cynthia.omondi32@example.com,2025-12-23,Book,3,370.00,1110
+ORD-1064,David Wafula,Male,42,nakuru,david.wafula94@example.com,2025-11-05,Home and Kitchen,5,10990,54950
+ORD-1255,Naomi Omondi,FEMALE,29,Nairobi,naomi.omondi81@example.com,2025-06-10,Electronics,5,29100.00,145500
+ORD-1219 ,Esther Chebet,Female,35,Nairobi,esther.chebet33@example.com,08/12/2025,Groceries,1,1990,1990
+ORD-1153,Ruth   Kiplagat,Female,32,Nakuru,ruth.kiplagat25@example.com,30/01/2025,Grocery,3,,1500
+ORD-1048,Yusuf Mutua,Male,41,NAIROBI,yusuf.mutua6@example,2025-02-08,Books,1,2970,2970
+ORD-1208,Lucy Kiplagat,Female,50,Mombassa,lucy.kiplagat74@example.com,"December 18, 2025",Groceries,1,2150,2150
+ORD-1287,Victor   Wafula,M,34,N/A,victor.wafula74@example.com,2025-05-12,Groceries,5,220,1100
+ORD-1001,Ruth Omondi,Female ,45,ELDORET,ruth.omondi45@example.com,03-Nov-2025,Home & Kitchen,4,2620,10480
+ORD-1269,Wanjiru Mutua,Female ,18,Nairobi,wanjiru.mutua39@example.com,2025-02-21,Home & Kitchen,5,2060,10300
+ORD-1265,Ruth Kamau,Female ,37,Kisumu,ruth.kamau90@example.com,2025-12-03,Clothing,5,1960,9800
+ ORD-1289,Tabitha Achieng,female,37,Kisumu,tabitha.achieng70@example.com,"June 11, 2025",Groceries,1,2400,2400
+ORD-1355,Amina Omondi,NULL,45,Nakuru,amina.omondi88@example.com,2025-06-24,Electronics,4,51280,205120
+ORD-1095,Halima Mutua,Female,32,Mombasa,HALIMA.MUTUA50@EXAMPLE.COM,16-May-2025,,4,"2,140",8560
+ORD-1492,Ruth Hassan,Female,29,Mombassa,ruth.hassan32@example.com,2025-05-04,Electronics,2,"34,400",N/A
+ORD-1042,GEORGE CHEBET,male,?,NAIROBI,george.chebet74@example.com,30/12/2025,Groceries,2,,1340
+ORD-1337,Esther Hassan,Female,27,Nairobi,esther.hassan34@example.com,2025-10-04,Electronics,1,"KES 32,850",32850
+ORD-1116,Victor   Achieng,M,40,Mombasa,VICTOR.ACHIENG86@EXAMPLE.COM,2025-05-07,Clothing,2,1350,2700
+ORD-1045,Ruth Otieno,Female,47,nairobi,ruth.otieno58@example.com,06-Jun-2025,ELECTRONICS,1,6990,6990
+ORD-1161,David Achieng,Male,45,Kisumu,david.achieng90@example.com,2025-02-27,BOOKS,1,680.00,680
+ORD-1409,Naomi Nyambura,FEMALE,20,Nakuru,naomi.nyambura22@example.com,2025-03-08,Clothing,1,unknown,3760
+ORD-1117,George Omondi,Male,49,Kisumu ,george.omondi47@example.com,2025-11-11,Groceries,4, 1150 ,4600
+ORD-1288,Faith   Omondi,Female,30,NAIROBI,faith.omondi53@example.com,,Home & Kitchen,5,3870.00,19350
+ORD-1077,Kevin Hassan,Male,40,MOMBASA ,kevin.hassan93@example.com,11-Jun-2025,Groceries,4, 1660 ,6640
+ORD-1416,Lucy Barasa,Female,26,Mombasa,NULL,2025-08-07,Home & Kitchen,2,1560,4120
+ORD-1063,RUTH WAFULA,Female,38,Mombasa,RUTH.WAFULA92@EXAMPLE.COM,"December 13, 2025",Electronics,4,34970,
+ORD-1338,CYNTHIA OMONDI,Female,36,Nairobi, cynthia.omondi59@example.com ,24-Dec-2025,Books,5, 370 ,
+ORD-1417,Samuel Kiplagat,MALE,18, Nairobi,samuel.kiplagat12@example.com,15/11/2025,Books,3,n/a,4920
+ORD-1413,Victor Wafula,Male,18,Eldoret,victor.wafula11@example.com,29-Jul-2025,Books,4,2870.00,11480
+ORD-1230,Naomi Njoroge,Female,21,Nairobi,,2025-04-24,Groceries,5,210,1050
+ORD-1297,Wanjiru Mwangi,Female,27,Eldoret., wanjiru.mwangi22@example.com ,2025-10-02,Books,4,1280,5120
+ORD-1186,Faith Kiplagat,F,32,Mombasa,faith.kiplagat18@example.com,2025-07-30,Grocery,1,2100,2100
+ORD-1360,Yusuf Chebet,Male,36,Mombassa,YUSUF.CHEBET41@EXAMPLE.COM,2025-01-19,Home & Kitchen,2, 7940 ,15880
+ORD-1199,George Omondi,,55,Nairobi,george.omondi82@example.com,2025-05-21,Electronics,3, 34850 ,104550
+ORD-1365,Moses Mutua,Male,24,Nakuru,moses.mutua12@example.com,"May 19, 2025",Clothes,2,4150,8300
+ORD-1121,Samuel Njoroge,Male,47,kisumu,samuel.njoroge38@example.com,"August 20, 2025",Electronics,1, 10250 ,10250
+ORD-1498,Samuel Mwangi,male,,Nairobi,unknown,2025-06-20,Home & Kitchen,5,9240,46200
+ORD-1460,George Kamau,Male,35,Nairobi,george.kamau5@example.com,2025-02-26,Clothes,4,5380,21520
+ORD-1307,George Omondi,Male,36,nakuru, george.omondi50@example.com ,2025-12-11,Electronics,2,"KES 54,720",109440
+ORD-1491,Moses Otieno,Male,28,Nairobi,moses.otieno79@example.com,23/02/2025,Clothing,2,"KES 5,530",11060
+ORD-1158,Halima Achieng,female,29,Mombasa,halima.achieng88@example.com,,Clothing,1,"KES 5,670",5670
+ORD-1085,Tabitha Otieno,Female,46,unknown,tabitha.otieno17@example.com,2025-06-27,,2,22710,45420
+ORD-1225,Moses Chebet,MALE,35,KISUMU,moses.chebet66@example.com,2025-08-17,groceries,4,490,1960
+ORD-1262,Quentin Wambui,Male,34,?,quentin.wambui40@example.com,2025-02-16,Electronics,5, 21600 ,108000
+ORD-1331,Halima Mwangi,Female,,Nakuru,halima.mwangi28@example.com,"February 21, 2025",Groceries,3,1910,5730
+ORD-1427,Purity Hassan,Female,18,Kisumu,purity.hassan54@example.com,2025-05-16,Home & Kitchen,4,"12,540",50160
+ORD-1076,Naomi Omondi,Female,50,Nairobi,naomi.omondi15@example.com,"June 12, 2025",Clothing,4,3650,24599
+ORD-1414,Esther Chebet,Female,42,Mombasa,esther.chebet87@example.com,2025-12-07,ELECTRONICS,1,55700,55700
+ord-1197,  Quentin Kariuki ,Male,37,Nakuru,quentin.kariuki44@example.com,2025-03-07,Books,250,2390,2390
+ORD-1087,Quentin Mwangi,male,40,Nairobi,quentin.mwangi98@example.com,2025-01-28,Groceries,2, 2400 ,4800
+ ORD-1434,Cynthia   Njoroge,Female,52,Eldoret,cynthia.njoroge85@example.com,2025-05-18,Electronics,3,15060,45180
+ORD-1182,George Achieng,M,35,,george.achieng17@example.com,2025-07-28,Home & Kitchen,5,13020,65100
+ORD-1105,Faith Otieno,Female,38,Kisumu,faith.otieno11@example.com,2025-05-15,Electronics,2,6730,13460
+ORD-1425,Victor Otieno,Male,39,Kisumu,victor.otieno74@example.com,2025-02-12,books,4,"KES 2,470",9880
+ORD-1049,Victor Barasa,Male,38,N/A,victor.barasa79@example.com,2025-04-28,Books,5,"KES 3,430",17150
+ORD-1405,Esther Kiplagat,Female,43,Nairobi,esther.kiplagat98@example.com,"May 19, 2025",Groceries,3,Ksh1910,5730
+ORD-1005,Yusuf Omondi,M,42,Nairobi,yusuf.omondi37@example.com,2025-11-27,Clothing,5,2290,11450
+ORD-1017,Kevin Achieng,?,25,Nairobi,kevin.achieng71@example.com,2025-04-06,Home&Kitchen,5,Ksh11860,59300
+ORD-1234,David Kariuki, Male ,40,Mombasa,david.kariuki13@example.com,2025-08-17,home & kitchen,5,14200,71000
+ORD-1429,Ruth Kamau,Female,30,mombasa,ruth.kamau33@example.com,"November 13, 2025",Clothing,1,2950,2950
+ORD-1372,Victor Hassan,Male,36,NULL,victor.hassan37@example.com,2025-06-21,Grocery,2,250,
+ORD-1423,Kevin Kamau,Male,60,Kisumu,kevin.kamau54@example.com,2025-07-20,n/a,2,4970.00,
+ORD-1106,Purity Omondi,female,,Nairobi,,2025-05-24,,5,45410,227050
+ORD-1134,Tabitha Mutua,Female,55,Mombasa,tabitha.mutua2@example.com,2025-12-04,Electronics,5,4220,21100
+ORD-1430,Cynthia Chebet,NULL,47,Eldoret,cynthia.chebet64@example.com,12/10/2025,Books,4,"KES 3,160",12640
+ORD-1226,david otieno,Male,34,Nairobi,david.otieno22@example.com,06/12/2025,Groceries,3,1350,
+ORD-1214,George Kiplagat,M,35,Nairobi,george.kiplagat34@example.com,2025-12-21,Clothing,3,2260,6780
+ORD-1190,JOYCE NJOROGE,Female,33,nairobi,JOYCE.NJOROGE49@EXAMPLE.COM,2025-03-03,Clothes,4,4910,19640
+ORD-1471,Yusuf Kiplagat,Male,30,Mombasa,yusuf.kiplagat5@example.com,2025-08-12,Groceries,2,990,1980
+ORD-1320,Lucy Nyambura,Female,24,nakuru,lucy.nyambura64@example.com,2025-07-18,Clothing,1,2920,2920
+ORD-1282,Amina Nyambura,FEMALE,34,Mombasa,amina.nyambura35@example.com,24-May-2025,Books,5,3450,17250
+ORD-1029,  Esther Kamau ,Female,37,Kisumu,esther.kamau98@@example.com,20/12/2025,Groceries,1,1140,1140
+ORD-1169,Oscar Otieno,Male,,unknown,oscar.otieno74@example.com,30-Sep-2025,Books,3,3160,9480
+ORD-1180,Yusuf Kariuki,Male,62,Mombasa,yusuf.kariuki75@example.com,2025-03-27,Electronics,4,46820,187280
+ORD-1100,Purity Wambui,F,24,Nairobi,N/A,2025-08-16,Groceries,4,2410,9640
+ORD-1197,  Quentin Kariuki ,Male,37,Nakuru,quentin.kariuki44@example.com,2025-03-07,Books,250,2390,2390
+ORD-1209,David Kariuki,male,29,mombasa,david.kariuki32@example.com,2025-01-23,Groceries,1,1060,1060
+ORD-1135,  Joyce Mwangi ,Female,24,,joyce.mwangi53@example.com,2025-06-01,Groceries,5,2210,21049
+ORD-1451,Halima Mutua,Female,34,nakuru,halima.mutua55@example.com,"June 04, 2025",Groceries,5,130,650
+ORD-1458,Moses Nyambura,Male,45,Nairobi,MOSES.NYAMBURA91@EXAMPLE.COM,2025-10-02,Groceries,3,unknown,NULL
+ORD-1198,Yusuf Kariuki,Male,32,Nairobi,N/A,"August 14, 2025",Books,5,920,4600
+ORD-1373,Esther Kamau,Female,27,mombasa,esther.kamau39@example.com,2025-05-01,,2,9700,19400
+ORD-1166,Wanjiru Otieno,Female,34,Nairobi,wanjiru.otieno15@example.com,2025-06-08,Clothing,3,1210,
+ORD-1451,Halima Mutua,Female,34,nakuru,halima.mutua55@example.com,"June 04, 2025",Groceries,5,130,650
+ORD-1136,Ruth Otieno,Female,,Nairobi,ruth.otieno66@example.com,2025-05-06,Groceries,three,810,2430
+ORD-1285,Faith Kiplagat,,19,Kisumu,faith.kiplagat3@example.com,13-Dec-2025,Clothes,4,5060,20240
+ORD-1335,kevin otieno,Male,18,NBO,KEVIN.OTIENO64@EXAMPLE.COM,30-Apr-2025,Home & Kitchen,4,6110,24440
+ORD-1396,Naomi Otieno,Female,45,, naomi.otieno97@example.com ,06-Mar-2025,Electronic,1, 46690 ,46690
+ORD-1131,Halima   Achieng,Female,39,Nairobi,halima.achieng8@example.com,"October 28, 2025",Groceries,three,860,2580
+ORD-1039,Esther Wambui,Female,39,Nairobi,esther.wambui77@example.com,20/08/2025,Home & Kitchen,5,"KES 7,440",37200
+ORD-1215,Halima Kamau,Female,31,Nakuru,halima.kamau22@example.com,12/11/2025,groceries,4,?,4120
+ORD-1043,Wanjiru Otieno,Female,25,nairobi,wanjiru.otieno81@example.com,12/03/2025,Groceries,3,450,1350
+ORD-1054,Zawadi Barasa,Female,36,Nairobi,zawadi.barasa53@example.com,21-Jul-2025,Groceries,4,2030,8120
+ORD-1188,Quentin Nyambura, Male ,42,Nairobi,QUENTIN.NYAMBURA46@EXAMPLE.COM,"April 19, 2025",Electronics,5,"21,830",109150
+ORD-1299,David Kiplagat,Male,29,Nairobi, david.kiplagat67@example.com ,"August 14, 2025",Books,1,2520,2520
+ORD-1487,Ruth Wambui,Female ,,Nairobi,ruth.wambui32@example.com,2025-09-27,Books,4,1810,7240
+ORD-1304,Zawadi Kariuki,Female,18,,zawadi.kariuki22@example.com,2025-06-05,Grocery,3,Ksh530,1590
+ORD-1035,Yusuf Nyambura,Male,46,Kisumu,yusuf.nyambura79@example.com,,Home&Kitchen,three,3640,10920
+ORD-1315,Wanjiru Njoroge,Female,34,Nakuru,wanjiru.njoroge58@example.com,2025-12-03,Home & Kitchen,1,"KES 1,580",1580
+ORD-1399,Faith Omondi,Female,18,Mombasa,faith.omondi79@example.com,23-May-2025,Home & Kitchen,4,13470,53880
+ORD-1309,Samuel Kariuki,Male,18,Eldoret.,samuel.kariuki63@example.com,2025-05-05,Electronics,5,33500,167500
+ORD-1276,David Achieng,MALE,53,Nairobi,david.achieng84@example.com,2025-04-01,Clothing ,5,"5,180",25900
+ORD-1124,Naomi Omondi,Female,18,Mombasa,naomi.omondi32@example.com,25/03/2025,Groceries,5,720,3600
+ORD-1142,WANJIRU OMONDI,Female,49,Kisumu,WANJIRU.OMONDI51@EXAMPLE.COM,2025-05-31,Home & Kitchen,5,6180,-
+ORD-1110,  Victor Kamau , Male ,43,Eldoret,victor.kamau71@example.com,2025-06-14,Home & Kitchen,1,5660,5660
+ORD-1323,Naomi Wambui,Female,N/A,Eldoret,naomi.wambui2@example.com,2025-07-14,Groceries,2,2330,4660
+ORD-1332,Ruth Mutua,Female,32,Nairobi,ruth.mutua94@example.com,2025-10-20,Clothing,5,2960.00,14800
+ORD-1393,  Yusuf Nyambura ,Male,33,Mombasa,yusuf.nyambura36@example.com,2025-01-23,Home & Kitchen,2,6740,13480
+ORD-1467,Esther Nyambura,Female,37,MOMBASA ,unknown,2025-06-23,Grocery,1,170,170
+ORD-1107,Cynthia Kiplagat,Female,29,Nairobi,cynthia.kiplagat51@example.com,14-Dec-2025,Clothing,5,520,2600
+ORD-1474,Moses Omondi,Male,43,Mombasa,moses.omondi43@example.com,2025-12-16,Clothing,5,4130.00,20650
+ORD-1012,Zawadi Barasa,Female,37,Kisumu,zawadi.barasa28@example.com,"November 09, 2025",Electronics,2,7260,
+ORD-1272,zawadi nyambura,FEMALE,20,Nairobi, zawadi.nyambura46@example.com ,2025-06-01,Electronics,4,9480.00,37920
+ORD-1047,Wanjiru Achieng,Female,27,Nairobi,wanjiru.achieng41@example.com,13-Dec-2025,Clothing,2,3640,7280
+ORD-1203,Samuel Kiplagat,MALE,47,Eldoret,samuel.kiplagat47@example.com,2025-02-04,Home & Kitchen,1,13440,14440
+ORD-1455,Zawadi Mwangi,F,46,Nakuru,zawadi.mwangi75@example.com,2025-03-19,Clothing,5,1460,7300
+ORD-1119,Kevin Kiplagat, Male ,46,Eldoret,kevin.kiplagat43@example.com,2025-12-08,Clothing,5,3320,16600
+ORD-1021,esther njoroge,Female,28,Eldoret,esther.njoroge58@example.com,2025-03-05,Home & Kitchen,1, 2270 ,2270
+ORD-1402,Victor Wambui,M,?,Eldoret,victor.wambui76@example.com,2025-10-02,Home & Kitchen,1,"3,610",3610
+ORD-1434,Cynthia   Njoroge,Female,52,Eldoret,cynthia.njoroge85@example.com,2025-05-18,Electronics,3,15060,45180
+ORD-1083,Tabitha Omondi,Female,34,Nakuru,tabitha.omondi50@example.com,"November 07, 2025",Groceries,5,2310,11550
+ORD-1130,Wanjiru Kariuki,Female ,43,Kisumu,wanjiru.kariuki32@example.com,2025-02-24,Electronics,2,"KES 49,540",99080
+ORD-1475,Quentin Mutua,Male,46,Mombasa,quentin.mutua41@example.com,2025-06-01,Clothing,2,"KES 1,070",2140
+ORD-1383,Cynthia Njoroge,Female,42,Eldoret,cynthia.njoroge59@example.com,2025-04-17,Home & Kitchen,3,6920,20760
+ORD-1329,PURITY WAFULA,Female,21,Nairobi,purity.wafula61@example.com,,Electronics,5,17540,87700
+ORD-1229,Ian Otieno,Male,39,Kisumu,ian.otieno94@example.com,2025-06-24,Clothing,3,5960,18880
+ORD_1111,Purity Njoroge,F,18,NBO,purity.njoroge57@example.com,2025-02-13,Home & Kitchen,3,"2,740",8220
+ORD-1286,Halima Hassan,Female,30,Nairobi,halima.hassan35@example.com,2025-06-15,Home & Kitchen,3,1580,4740
+ORD-1123,Joyce Barasa,Female ,18,Mombassa,joyce.barasa48@example.com,2025-04-11,Electronics,1,32460,32460
+ORD-1033,  Brian Kamau , Male ,35,NAIROBI,brian.kamau96@example.com,2025-04-27,Clothing,2,4780,9560
+ORD-1314,Cynthia Omondi,FEMALE,28,Kisumu,cynthia.omondi32@example.com,2025-12-23,Book,3,370.00,1110
+ORD-1004,Quentin Omondi,Male,40,Kisumu ,quentin.omondi5@example.com,2025-07-01,Home & Kitchen,1,7430,7430
+ORD-1411,Ian Mutua,Male,48,Nairobi,ian.mutua15@example.com,2025-10-13,Clothing,2,Ksh780,1560
+ORD-1019,Naomi Kamau,Female,unknown,Kisumu,naomi.kamau71@example.com,2025-06-29,-,5,1920,9600
+ORD-1219,Esther Chebet,Female,35,Nairobi,esther.chebet33@example.com,08/12/2025,Groceries,1,1990,1990
+ORD-1379,Amina Kamau,female,24,Nakuru,amina.kamau21@example.com,2025-04-23,Books,2,2550,5100
+ORD-1067,Ruth Omondi,Female ,30,,ruth.omondi87@example.com,,Groceries,1,2490,NULL
+ORD-1419,Joyce Hassan,Female,31,Eldoret,joyce.hassan90@example.com,,Books,2,2300,4600
+ORD-1356,Ruth Barasa,Female,52, Nakuru ,ruth.barasa10@example.com,2025-06-29,Home & Kitchen,2,14000,28000
+ORD-1149,Zawadi Kamau,FEMALE,39,MOMBASA ,zawadi.kamau26@example.com,2025-06-15,Groceries,3, 1220 ,3660
+ORD-1224,Faith Barasa,Female,33,MOMBASA ,faith.barasa86@example.com,"September 24, 2025",Electronics,2,21010,42020
+ORD-1247,George Mutua,M,31,Mombasa,george.mutua64@example.com,2025-09-20,Home & Kitchen,1,12480,12480
+ORD-1472,Naomi Chebet,F,47,,,2025-05-16,home & kitchen,2,3770,7540
+ORD-1151,Halima Omondi,FEMALE,23,,halima.omondi97@example.com,2025-02-08,Clothing,5,Ksh5460,26800
+ORD-1448,Yusuf Wafula,Male,35,Nakuru,yusuf.wafula53@example.com,2025-09-03,Books,5,2500,12500
+ORD-1317,Purity Wambui,Female,31,Nairobi,purity.wambui89@example.com,2025-08-05,Electronics,1,Ksh14000,14000
+ORD-1493,Zawadi Kamau,female,48,Mombasa,zawadi.kamau13@example.com,03-Apr-2025,Clothing,3,4080,
+ORD-1291,Victor Barasa,Male,24,Eldoret,victor.barasa14@example.com,16/02/2025,Electronics,2,36400,72800
+ORD-1233,Moses Njoroge,Male,46,Nakuru,moses.njoroge85@example.com,"September 03, 2025",Electronic,5,9280.00,46400
+ORD-1010,Kevin Nyambura,Male,37,Mombasa,kevin.nyambura75@example.com,2025-01-29,Home & Kitchen,-2,8830,26590
+ORD-1279,Brian Barasa,Male,19,Mombasa,brian.barasa12@example.com,2025-06-04,Electronics,4,n/a,80480
+ORD-1071,Zawadi Achieng,,32,Nakuru,zawadi.achieng79@example.com,2025-09-02,Clothing,-1, 810 ,4050
+ORD-1252,George Kamau,,39,KISUMU,george.kamau87@example.com,11/03/2025,Clothing,2, 3410 ,6820
+ORD-1092,Yusuf Otieno,Male,48,mombasa,yusuf.otieno49@example.com,"March 12, 2025",Home & Kitchen,2,4950,9900
+ORD-1078,Quentin Chebet,Male,37,Nairobi,quentin.chebet14@example.com,2025-12-22,Books,3,680,2040
+ORD-1349,Ian Mwangi,Male,29,Kisumu,ian.mwangi60@example.com,2025-03-24,Clothing,5,5650,28250
+ORD-1415,Purity Achieng,female,30,Eldoret,purity.achieng4@example.com,2025-03-14,Home & Kitchen,5, 7880 ,39400
+ORD-1374,zawadi omondi,Female,32,Eldoret,zawadi.omondi95@example.com,2025-04-07,Electronics,2,36900,73800
+ORD-1400,Ruth Njoroge,Female,25,Mombasa,ruth.njoroge67@example.com,2025-07-16,Books,2,3280,6560
+ORD-1192,Faith Otieno,Female,33,Nakuru,faith.otieno4@example.com,"February 06, 2025",Electronics,3,47380.00,142140
+ORD-1257,Esther Njoroge,Female,18,nairobi,esther.njoroge30@example.com,2025-09-13,Clothing,1,2910,2910
+ORD-1199,George Omondi,,55,Nairobi,george.omondi82@example.com,2025-05-21,Electronics,3, 34850 ,104550
+ORD-1339,Samuel Omondi,Male,31,MOMBASA ,samuel.omondi97@example.com,"December 25, 2025",Groceries,4,2330,9320
+ORD-1072,Victor Nyambura,Male,50,Kisumu,victor.nyambura20@example.com,"June 16, 2025",Books,5,430,2150
+ORD-1195,Moses Omondi,Male,30,Nakuru,moses.omondi22@example.com,2025-05-31,Home & Kitchen,3,6020,
+ORD-1483,Joyce Hassan,Female,44,Mombasa,joyce.hassan53@example.com,2025-07-08,Home & Kitchen,4,2920,11680
+ORD-1343,Amina Wambui,FEMALE,35,Nakuru,amina.wambui26@example.com,22-Dec-2025,Home & Kitchen,3,14590,43770
+ORD-1137,Brian Hassan,Male,26,Mombassa,brian.hassan25@example.com,"November 03, 2025",ELECTRONICS,2,52940,105880
+ORD-1260,Ruth Otieno,Female,39,Mombasa,ruth.otieno40@example.com,29/06/2025,Groceries,3,1290,3870
+ORD-1038,David Kiplagat,Male,63,Mombasa,david.kiplagat42example.com,01-Oct-2025,Books,1,750,750
+ORD-1462,Cynthia Kiplagat,Female,29,Mombasa,cynthia.kiplagat68@example.com,2025-10-06,clothing,two,1690,3380
+ORD-1201,Cynthia Barasa,Female,40,NAIROBI,cynthia.barasa27@example.com,2025-10-03,Clothing,3,2620,7860
+ORD-1371,Tabitha Kariuki,Female,30,Nairobi,tabitha.kariuki14@example.com,2025-06-28,Books,4,3100,12400
+ORD-1290,Yusuf Mutua,Male,47,Nakuru,yusuf.mutua63@example.com,2025-01-23,Electronics,3,29170,87510
+ORD-1448,Yusuf Wafula,Male,35,Nakuru,yusuf.wafula53@example.com,2025-09-03,Books,5,2500,12500
+ORD-1189,Ian Nyambura,MALE,,Mombasa,ian.nyambura82@example.com,06-Sep-2025,home & kitchen,2,11980,23960
+ORD-1251,Cynthia Omondi,Female,19,Nairobi,cynthia.omondi11@example.com,2025-07-25,Clothing,5,2000,10000
+ORD-1112,Lucy Wambui,Female,23,NBO,lucy.wambui36@example.com,07-Feb-2025,Clothing,3,Ksh1240,3720
+ORD-1437,Tabitha Wambui,F,25,nairobi,tabitha.wambui43@example.com,09-Mar-2025,Groceries,4,"KES 1,350",5400
+ORD-1183,KEVIN OMONDI,Male,23,nairobi, kevin.omondi76@example.com ,"September 13, 2025",Electronics,5,11750,58750
+ORD-1152,Oscar Mwangi,Male,18,Nakuru,oscar.mwangi55@example.com,2025-03-23,Groceries,1,830,830
+ORD-1312,Brian Hassan,Male,52,Nairobi,brian.hassan41@example.com,31/05/2025,Electronics,3,39650,118950
+ORD-1325,Samuel Mwangi, Male ,29,Mombasa,samuel.mwangi61@example.com,09/12/2025,Electronics,5,3837000,191850
+ORD-1191,Naomi Wambui,Female,25,nairobi,naomi.wambui53@example.com,2025-04-23,Books,1,790,790
+ORD-1044,Wanjiru Wambui,Female,20,Nairobbi,,30-Jul-2025,groceries,1,780,780
+ORD-1444,Halima Hassan,Female,54,Nairobi, halima.hassan81@example.com ,"October 14, 2025",Clothing,3,3100,9300
+ORD-1275,Joyce Barasa,Female,36,,joyce.barasa16@example.com,2025-02-01,Home & Kitchen,2,1300,2600
+ORD-1006,Lucy Mwangi,Female,44,nakuru,lucy.mwangi66@example.com,2025-07-26,Home & Kitchen,3,4020,12060
+ORD-1250,Lucy Chebet,female,48,Kisumu,lucy.chebet13@example.com,2025-05-08,Grocery,2,1890,3780
+ORD-1311,Kevin Kariuki,Male,23,Mombassa,kevin.kariuki27@example.com,2025-12-17,Books,5,2860,14300
+ORD-1075,Lucy Nyambura,Female,N/A,MOMBASA ,LUCY.NYAMBURA18@EXAMPLE.COM,2025-10-09,Grocery,1,320,320
+ORD-1000,Cynthia Omondi,Female,18,Eldoret,cynthia.omondi69@example.com,2031-06-15,Home and Kitchen,3,Ksh12990,38970
+ORD-1428,Tabitha Barasa,F,18,nairobi,tabitha.barasa3@example.com,2025-05-20,Books,1,,3260
+ORD-1391,Lucy Hassan,FEMALE,36,Eldoret,lucy.hassan48@example.com,2025-11-20,Home and Kitchen,3,"12,100",36300
+ORD-1432,Moses Chebet,Male,58,Nairobi,moses.chebet15@example.com,07-Feb-2025,Home & Kitchen,4,1250,5000
+ORD-1068,Brian Mwangi,Male,44,Nakuru,brian.mwangi64@example.com,2025-02-19,Home & Kitchen,5,10250,51250
+ORD-1167,David Wambui,Male,31,Mombasa,david.wambui46@example.com,2025-09-20,home & kitchen,2,11110,-
+ORD-1366,George Kamau,male,27,Nairobbi,george.kamau71@example.com,02-May-2025,Clothing,2,3730,7460
+ORD-1345,Faith Kamau,Female,44,Kisumu,FAITH.KAMAU39@EXAMPLE.COM,28/05/2025,Home & Kitchen,2,Ksh1240,2480
+ORD-1398,Esther Kariuki,Female,?,mombasa,esther.kariuki13@example.com,2025-07-03,Books,2,910,1820
+ORD-1185,GEORGE KARIUKI,,36,n/a,george.kariuki78@example.com,03-Aug-2025,Home & Kitchen,1,2760,2760
+ORD-1348,Kevin Wafula,Male,67,KISUMU,kevin.wafula13@example.com,22-Jul-2025,Home & Kitchen,1,7820,7820
+ORD-1211,Tabitha Hassan,Female,53,Nakuru,tabitha.hassan19@example.com,21/03/2025,,1,870,870
+ORD-1116,Victor   Achieng,M,40,Mombasa,VICTOR.ACHIENG86@EXAMPLE.COM,2025-05-07,Clothing,2,1350,2700
+ORD-1196,Zawadi Mwangi,Female,47,Nairobi,zawadi.mwangi18@example.com,2025-03-01,Home & Kitchen,1,3300,3300
+ORD-1175,George Njoroge,Male,42,Kisumu,george.njoroge20@example.com,2025-09-28,Clothing,4,5510,22040

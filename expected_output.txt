@@ -1,0 +1,257 @@
+
+====================================================================================================
+STEP 1  Load and profile
+====================================================================================================
+Shape: (525, 11)
+
+Column names exactly as stored: ['Order ID', ' Customer Name', 'Gender', 'AGE', 'City ', 'E-mail', 'Order_Date', 'Product Category', 'Qty', 'Unit Price (KES)', 'Total']
+
+First rows:
+     Order ID   Customer Name  Gender AGE    City                         E-mail    Order_Date Product Category Qty Unit Price (KES)  Total
+0   ORD-1395  Faith Kiplagat  Female  18  Nairobi  faith.kiplagat84@example.com    2025-12-20        Groceries   1             1770   1770
+1   ORD-1260     Ruth Otieno  Female  39  Mombasa     ruth.otieno40@example.com    29/06/2025        Groceries   3             1290   3870
+2   ORD-1162    Brian Chebet       M  18   Nakuru    brian.chebet19@example.com    30/08/2025            books   3             2000   6000
+3   ORD-1101  Moses Nyambura    MALE  53  Eldoret  moses.nyambura65@example.com    2025-12-17            Books   3             2070   6210
+4   ORD-1361     Brian Kamau   Male   47  Nairobi     brian.kamau41@example.com    2025-07-21     Home&Kitchen   2             8830  17660
+5   ORD-1308     Ian Kariuki    MALE  37  Mombasa     ian.kariuki25@example.com  May 08, 2025            Books   2             1220   2440
+6   ORD-1132    Joyce Otieno  Female  55  Nairobi    joyce.otieno70@example.com    2025-11-05   Home & Kitchen   1            11100  11100
+7   ORD-1003   Victor Barasa       M   -   Nakuru                                  2025-09-13         clothing   4             4670  18680
+
+Distinct values per column:
+ Order ID            510
+ Customer Name      313
+Gender               16
+AGE                  58
+City                 28
+E-mail              469
+Order_Date          366
+Product Category     24
+Qty                  15
+Unit Price (KES)    424
+Total               435
+
+====================================================================================================
+STEP 2  Standardise column names
+====================================================================================================
+Clean names: ['order_id', 'customer_name', 'gender', 'age', 'city', 'email', 'order_date', 'product_category', 'quantity', 'unit_price', 'total']
+
+====================================================================================================
+STEP 3  Whitespace and disguised missing values
+====================================================================================================
+  -> cells with leading/trailing whitespace trimmed: 152
+
+Placeholders found:
+(blank)    126
+?           16
+n/a         16
+N/A         15
+unknown     14
+NULL        12
+-           11
+  -> placeholder cells converted to NaN: 210
+
+Missing values per column (after exposing placeholders):
+                  missing  percent
+order_id                0      0.0
+customer_name           0      0.0
+gender                 27      5.1
+age                    40      7.6
+city                   30      5.7
+email                  35      6.7
+order_date             16      3.0
+product_category       17      3.2
+quantity                0      0.0
+unit_price             20      3.8
+total                  25      4.8
+
+====================================================================================================
+STEP 4  Duplicates
+====================================================================================================
+Exact duplicate rows BEFORE fixing the key: 22
+Exact duplicate rows AFTER fixing the key:  25
+  -> duplicate rows removed: 25
+Conflicting records sharing an order_id: 0
+
+====================================================================================================
+STEP 5  Inconsistent labels
+====================================================================================================
+gender BEFORE: ['F', 'FEMALE', 'Female', 'M', 'MALE', 'Male', 'female', 'male']
+gender AFTER:  ['Female', 'Male']
+
+city BEFORE: ['ELDORET', 'Eldoret', 'Eldoret.', 'KISUMU', 'Kisumu', 'MOMBASA', 'Mombasa', 'Mombassa', 'NAIROBI', 'NBO', 'Nairobbi', 'Nairobi', 'Nakuru', 'eldoret', 'kisumu', 'mombasa', 'nairobi', 'nakuru']
+city AFTER:  ['Eldoret', 'Kisumu', 'Mombasa', 'Nairobi', 'Nakuru']
+
+product_category BEFORE: ['BOOKS', 'Book', 'Books', 'Clothes', 'Clothing', 'ELECTRONICS', 'Electronic', 'Electronics', 'Groceries', 'Grocery', 'Home & Kitchen', 'Home and Kitchen', 'Home&Kitchen', 'books', 'clothing', 'electronics', 'groceries', 'home & kitchen']
+product_category AFTER:  ['Books', 'Clothing', 'Electronics', 'Groceries', 'Home & Kitchen']
+
+Names and e-mails normalised, e.g.: ['Faith Kiplagat', 'Ruth Otieno', 'Brian Chebet']
+
+====================================================================================================
+STEP 6  Data types
+====================================================================================================
+  -> unit_price values that needed symbol/comma removal: 83
+  -> quantity values written as words: 15
+  format '%Y-%m-%d'     matched  317 rows
+  format '%d/%m/%Y'     matched   51 rows
+  format '%d-%b-%Y'     matched   62 rows
+  format '%B %d, %Y'    matched   53 rows
+  Impossible calendar dates: ['31/04/2025', '31/04/2025']
+  -> impossible dates set to missing: 2
+
+Data types now:
+ order_id                       str
+customer_name                  str
+gender                         str
+age                          Int64
+city                           str
+email                          str
+order_date          datetime64[ns]
+product_category               str
+quantity                     Int64
+unit_price                 float64
+total                      float64
+
+====================================================================================================
+STEP 7  Domain / range validation
+====================================================================================================
+  ages outside 18-100: [-5, -5, 3, 250]
+  -> invalid ages set to missing: 4
+  quantities below 1: [-2, -1, -1, -1, 0]
+  -> invalid quantities set to missing: 5
+  dates outside 2025: [datetime.date(2031, 6, 15)]
+  -> out-of-period dates set to missing: 1
+  malformed e-mails: ['moses.achieng59example.com', 'quentin.barasa6@example', 'yusuf.kamau38@', 'kevin.achieng10example.com', 'esther.otieno50@@example.com', 'yusuf.mutua6@example', 'esther.kamau98@@example.com', 'david.kiplagat42example.com']
+  -> malformed e-mails set to missing: 8
+
+====================================================================================================
+STEP 8  Outliers (IQR rule)
+====================================================================================================
+  quantity fences: [-1.0, 7.0]  ->  outliers: [250, 250, 250, 500, 500]
+
+  unit_price fences per category:
+                        lo        hi
+product_category                   
+Books             -1516.0    5254.0
+Clothing          -1740.0    7980.0
+Electronics      -35955.0  100785.0
+Groceries         -1065.0    3695.0
+Home & Kitchen    -8160.0   21440.0
+
+  unit_price outliers:
+      order_id product_category  quantity  unit_price     total
+41   ORD-1390      Electronics         1    533000.0    5330.0
+148  ORD-1490      Electronics         1   5515000.0   55150.0
+305  ORD-1310         Clothing         3    508000.0   15240.0
+478  ORD-1325      Electronics         5   3837000.0  191850.0
+  -> quantity outliers flagged: 5
+  -> unit_price outliers flagged: 4
+
+====================================================================================================
+STEP 9  Cross-field reconciliation
+====================================================================================================
+  -> quantities recovered from total / unit_price: 8
+  -> unit prices recovered from total / quantity: 22
+  examples of totals that disagree with quantity x unit_price:
+     order_id  quantity  unit_price    total
+20   ORD-1244         1      1890.0   1390.0
+26   ORD-1168         5      5670.0  29350.0
+88   ORD-1478         1      9240.0  19239.0
+126  ORD-1074         4      1570.0   7280.0
+171  ORD-1096         2      3240.0  16479.0
+  -> inconsistent totals found (recomputed in Step 10): 17
+
+====================================================================================================
+STEP 10  Missing values
+====================================================================================================
+Missing before imputation:
+ order_id             0
+customer_name        0
+gender              25
+age                 44
+city                30
+email               43
+order_date          18
+product_category    15
+quantity             2
+unit_price           2
+total               25 
+
+  -> ages imputed with the median of the same gender: 44
+  -> unit prices imputed with the median of the same category: 2
+  -> quantities imputed with the overall median: 2
+  -> gender missing -> 'Unknown': 25
+  -> city missing -> 'Unknown': 30
+  -> product_category missing -> 'Unknown': 15
+  email and order_date are left missing (cannot be inferred from other columns)
+
+====================================================================================================
+STEP 11  Verify and save
+====================================================================================================
+All validation checks passed.
+Clean data saved to retail_orders_clean.csv
+
+====================================================================================================
+RESULTS
+====================================================================================================
+Cleaning log
+ step                                                   action  affected
+    3           cells with leading/trailing whitespace trimmed       152
+    3                       placeholder cells converted to NaN       210
+    4                                   duplicate rows removed        25
+    6       unit_price values that needed symbol/comma removal        83
+    6                         quantity values written as words        15
+    6                          impossible dates set to missing         2
+    7                              invalid ages set to missing         4
+    7                        invalid quantities set to missing         5
+    7                       out-of-period dates set to missing         1
+    7                         malformed e-mails set to missing         8
+    8                                quantity outliers flagged         5
+    8                              unit_price outliers flagged         4
+    9             quantities recovered from total / unit_price         8
+    9              unit prices recovered from total / quantity        22
+    9        inconsistent totals found (recomputed in Step 10)        17
+   10          ages imputed with the median of the same gender        44
+   10 unit prices imputed with the median of the same category         2
+   10               quantities imputed with the overall median         2
+   10                              gender missing -> 'Unknown'        25
+   10                                city missing -> 'Unknown'        30
+   10                    product_category missing -> 'Unknown'        15
+
+Before / after quality report
+                 dtype_before     dtype_after  missing_before  missing_after  distinct_before  distinct_after
+order_id                 text             str               0              0              510             500
+customer_name            text             str               0              0              313             268
+gender                   text        category              27              0               16               3
+age                      text           Int64              40              0               58              48
+city                     text        category              30              0               28               6
+email                    text             str              35             43              469             455
+order_date               text  datetime64[ns]              16             18              366             270
+product_category         text        category              17              0               24               6
+quantity                 text           Int64               0              0               15               5
+unit_price               text         float64              20              0              424             392
+total                    text         float64              25              0              435             450
+(email and order_date gain missing values because invalid entries were blanked, not guessed)
+
+Rows: 525 -> 500
+
+Clean data sample:
+    order_id    customer_name  gender  age     city                         email order_date product_category  quantity  unit_price     total  age_imputed  price_imputed  quantity_imputed
+0  ORD-1000   Cynthia Omondi  Female   18  Eldoret  cynthia.omondi69@example.com        NaT   Home & Kitchen         3     12990.0   38970.0        False          False             False
+1  ORD-1001      Ruth Omondi  Female   45  Eldoret     ruth.omondi45@example.com 2025-11-03   Home & Kitchen         4      2620.0   10480.0        False          False             False
+2  ORD-1002  Samuel Kiplagat    Male   40  Nairobi                           NaN 2025-06-14        Groceries         5      1160.0    5800.0        False          False             False
+3  ORD-1003    Victor Barasa    Male   36   Nakuru                           NaN 2025-09-13         Clothing         4      4670.0   18680.0         True          False             False
+4  ORD-1004   Quentin Omondi    Male   40   Kisumu   quentin.omondi5@example.com 2025-07-01   Home & Kitchen         1      7430.0    7430.0        False          False             False
+5  ORD-1005     Yusuf Omondi    Male   42  Nairobi    yusuf.omondi37@example.com 2025-11-27         Clothing         5      2290.0   11450.0        False          False             False
+6  ORD-1006      Lucy Mwangi  Female   44   Nakuru     lucy.mwangi66@example.com 2025-07-26   Home & Kitchen         3      4020.0   12060.0        False          False             False
+7  ORD-1007  Purity Nyambura  Female   37  Nairobi                           NaN 2025-06-08      Electronics         2     50610.0  101220.0        False          False             False
+
+Summary statistics:
+          age  quantity  unit_price     total
+count  500.0     500.0       500.0     500.0
+mean    35.1       3.0      9145.6   26420.2
+std     10.0       1.4     14055.5   45061.9
+min     18.0       1.0       110.0     170.0
+25%     28.0       2.0      1517.5    3315.0
+50%     35.0       3.0      2965.0    8710.0
+75%     41.2       4.0      8950.0   24080.0
+max     70.0       5.0     58190.0  264900.0
