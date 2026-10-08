@@ -1,0 +1,421 @@
+Patient ID, Full Name,SEX,Age (yrs),County ,Visit_Date,Height,Weight (kg),BMI,Systolic BP,diastolic bp,Temp,Blood Group,Diagnosis ,Smoker?
+PT-0165,Purity Omondi,Female,19,Machakos,2025-06-09,164,83.8,21.7,142,?,36.9,O+,Hypertension,
+PT-0350,Halima Barasa,Female,45,Kiambu,01.06.2025,160,44.5,17.4,119,77,38.9,B+,Malaria,Yes
+PT-0395,david otieno,Male,27,Nairobi,2025-10-27,177 cm,79.1,,143,96,38.2,o+,Hypertension,No
+PT-0075,Collins Kariuki,Male,28,Nairobi,2025-05-29,,54.1,19.6,160,98,38.0,,Hypertension,No
+PT-0240,Grace Barasa,Female,25,Kiambu,2025-03-13,163,63.8 kg,24.0,121,71,37.9,O+,Typhoid,No
+PT-0215,Faith Abdi,Female,18,Kiambu,2025-05-22,170,49.1,17.0,111,69,38.2,A+,Pneumonia,No
+PT_0100,Victor Kariuki,M,40,Nakuru,2025-03-23,158,66.8,26.8,113,76,39.1,O+,Pneumonia,No
+PT-0061,Brian Njoroge,Male,58,Kisumu,24/02/2025,169,79.9,28.0,149,98,37.9, O+ ,Hypertension,No
+PT-0200,Halima Omondi,Female,33,Nairobbi,2025-08-15,166,70.8,25.7,134,87,unknown,B+,Maleria,No
+PT-0229,Brian Barasa,Male,45,Kisumu,2025-05-01,163,66.6 kg,25.1,102/66,,37.0,A+,Type 2 Diabetes,No
+PT-0250,Lucy Omondi,FEMALE,38,Nakuru,05-Jun-2025,1.62,73.0,27.8,-1,107,98.6,NULL,Hypertension,TRUE
+PT-0320,Purity Kariuki,female,,Nairobi,2025-07-08,161,59.8,23.1,142,93,98.2F,A+,Type 2 Diabetes,No
+PT-0071,Kevin Kariuki,MALE,50,Nairobi,2025-05-16,160,81.3,31.8,119,76,,A+,Type 2 Diabetes,
+PT-0105,Lucy Abdi,Female,65,Nairobi,2025-02-10,165,81.5,29.9,155,99,36.4,O+,hypertension,Yes
+PT-0384,Kevin Abdi,Male,41,Kisumu,2025-02-09,170cm,66.6,23.0,126,81,38.2,O+,Pneumonia,No
+PT-0390,Lucy Barasa,F,57,Nakuru,2025-02-19,158,NULL,25.0,127,83,39.4,O+,Malaria,No
+PT-0135,Samuel Achieng,Male,,Nakuru,,194,,20.9,111,67,97.9 F,O+,Upper Respiratory Tract Infection,Yes
+PT-0263,Ian Kiplagat,Male,44,Mombasa,21.03.2025,169 cm,62.7,22.0,122,81,36.5,A+,Type 2 Diabetes,NO
+PT-0200,Halima Omondi,Female,33,Nairobbi,2025-08-15,166,70.8,25.7,134,87,unknown,B+,Maleria,No
+PT-0398,David Kiplagat,Male,40,Nairobi,26/12/2025,187cm,81.0,23.2,125,,38.2, O+ ,Pneumonia,No
+PT-0217,Lucy Omondi,Female,58 years,nakuru,05-Jul-2025,1.70m,64.5kg,22.3,144,92,37.4,A+,hypertension,n/a
+PT-0181,Ruth Wafula,F,48,mombasa,12-Dec-2025,163,48.3,18.2,122,79,36.3,O+,Upper Respiratory Tract Infection,No
+PT-0372,SAMUEL KAMAU,M,18,Nairobi,18-Mar-2025,169,64.0,22.4,117,78,37.8,B+,Malaria,FALSE
+PT-0198,George Chebet,Male,56,Kisumu,2025-03-04,165,64.8,23.8,133,79,37.2,A+,type 2 diabetes,no
+PT-0275,  Halima Kariuki ,Female,63,Kiambu,"June 30, 2025",1.61,56.6,21.8,158,93,36.9,O+,Hypertension,-
+PT-0021,Amina Mwangi,Female,57,NAKURU,2025-06-30,176,624.0,20.1,129,76,38.8,unknown,Malaria,No
+PT-0343,Moses Mutua,Male,63,Kiambu,"August 08, 2025",176,90.5,29.2,101,60,39.2,O+,Malaria,No
+PT-0144,Oscar Abdi,M,73,Mombasa,15.02.2025,173,82.1,27.4,143,83,36.4°C,A+,Hypertension,yes
+PT-0029,george mwangi,Male,35,Kisumu.,25-Aug-2025,169,89.5,31.3,114,75,38.8,O+,Typhoid,No
+PT-0163,Kevin Otieno, Male,21,Machakos,?,not recorded,47.4,17.0,110,74,38.7,B+,PNEUMONIA,No
+PT-0252,Joyce Nyambura,Female,53,Mombasa,2025-03-05,165,91.3,33.5,120,80,36.5,n/a,type 2 diabetes,No
+PT-0251,Kevin Kiplagat,,58,Machackos,03/02/2025,165,68.6,25.2,123,80,37.5,O-,Upper Respiratory Tract Infection,Yes
+PT-0278,Brian Nyambura,Male,7,Kisumu,2025-07-31,164,68.6,25.5,134,89,-1,O+,Type 2 Diabetes,No
+PT-0175,Cynthia Otieno,Female,42,Kisumu,2025-11-17,173,68.3,-,,85,36.6,O+,Hypertension,No
+PT-0344,Ruth   Kariuki,F,34,Machakos,2025-06-20,1.65 m,64.5,23.7,102,67,37.1,B+,URTI,Y
+PT-0238,Halima Mutua,Female,50,Nairobi,2025-12-29,165,75.3,40.2,110,70,39.0,B+,Malaria,-
+PT-0375,Collins Abdi,Male,18,Nairobi,2025-09-09,180,82.3,25.4,132,85,38.5,O-,Malaria,No
+PT-0137,Yusuf Abdi,male,45,Mombasa,2025-12-30,1.57 m,52.0,21.1,127,76,38.7,A+,Maleria,No
+PT-0231,Wanjiru Kiplagat,Female,51,Kiambu,27/09/2025,157cm,70.1 KG,28.4,140,92,100.2, A+ ,Maleria,No
+PT-0156,Halima Omondi,Female,68,Mombasa,2025-02-20,154,56.0,,125,81,38.6,NULL,NULL,N
+PT-0183,David Kamau,Male,41,Kiambu,2025-02-16,162,71.0,23.1,128,75,38.4, O+ ,Typhoid,Yes
+PT-0057,Peter Chebet,Male,34,Kisumu,2025-11-06,176,69.1kg,22.3,139,91,37.4,B+,Hypertension,No
+PT-0022,Grace Chebet,Female,61,Nakuru,2025-12-23,161,58.8,22.7,119,76,37.3,O+,Type 2 Diabetes,
+PT-0015,Oscar Wafula,Male,999,MOMBASA ,2025-03-17,17.8,88.6,28.0,141,93,37.0,O+,,No
+PT-0040,Zawadi Wambui,Female,44,Machakos,2025-11-19,1.75 m,,26.6,140,87,36.7°C,O pos,Hypertension,No
+PT-0367,Quentin Otieno,M,45 years,Kisumu,12-Jan-2025,186,NULL,26.6,99,61,39.0,A+,Pneumonia,NULL
+PT-0258,Collins Kamau,Male,50,Nairobi,2025-11-14,171,65.8,22.5,159,107,,BPOS,Hypertension,FALSE
+PT-0174,Samuel Wafula,male,62,?,2025-01-03,178,87.2,27.5,127,85,N/A,A+,URTI,No
+PT-0114,Wanjiru Kariuki,F,19,Kiambu,24/03/2025,155,61.5,25.6,90,55,38.7,B+,PNEUMONIA,YES
+PT-0260,Moses Kiplagat,Male,55,Machakos,2025-08-07,182, 72.9 ,22.0,119,72,36.5,O+,Type 2 Diabetes,No
+PT-0130,Cynthia Achieng,Female,37,Nakuru,2025-09-13,164,78.1,29.0,102,66,38.1,O+,Malaria,no
+PT-0151,Joyce Nyambura,female,62,Nakuru,2025-01-09,154,72.3,60.5,114,69,36.5,O+,Type 2 Diabetes,No
+PT-0197,Wanjiru Kiplagat,FEMALE,18 years,Machakos,2025-03-09,166,51.3,18.6,106,70,37.2,O+,Upper Respiratory Tract Infection,No
+PT-0303,Moses Kiplagat,Male,62 yrs,NRB,2025-07-01,185cm,73.6 KG,21.5,172,99,36.0,O-,Hypertension,
+PT-0032,Ian Barasa,male,41,N/A,2025-08-28,180cm,73.2,22.6,113,68,37.9,a+,MALARIA,No
+PT-0341,Kevin Kariuki, Male,45 years,Machakos,2025-04-18,177,75.0,23.9,161/95,,36.5,O+,High blood pressure,No
+PT-0257,Lucy Chebet,Female,35,Machakos,23-Apr-2025,163,65.3,30.6,129,87,97.7 F,A+,Type 2 Diabetes,No
+PT-0190,Amina Chebet,Female,55,Nairobi,2025-03-08,166,66.7,24.2,127,81,36.2°C,o+,Upper Respiratory Tract Infection,NO
+PT-0219,Lucy Otieno,FEMALE,26,Kiambu,2025-06-27,151,44.5 KG,19.5,99,61,38.0,A+,Pneumonia,Yes
+PT-0196,Joyce Mwangi,F,54,machakos,07/03/2025,157,49.5,20.1,121,75,37.4,B+,urti,No
+PT-0189,kevin otieno,Male,29,Mombasa,2025-09-20,163,68.7,25.9,153,93,37.4,B+,Upper Respiratory Tract Infection,Yes
+PT-0298,Samuel Omondi,Male,43,Nairobi,31-May-2025,1.73m,82.4,27.5,110,70,36.6 C,,type 2 diabetes,FALSE
+PT-0204,Joyce Barasa,Female,36,Kiambu,2025-04-09,1.69,99.6,34.9,129,87,38.1,A+,Pneumonia,No
+PT-0102,Esther Wafula,Female,20, Nakuru,2025-10-03,175,66.8,21.8,116,71,38.9,O+,Malaria,No
+PT-0140,Faith Kiplagat,Female,55,N/A,2025-03-13,168,,23.7,165,100,-1,O+,hypertension,N
+PT-0388,Halima Chebet,Female,44,Mombasa,13/06/2025,164,72.6,27.0,115,?,38.2, A+ ,?,No
+PT-0396,Esther Mwangi,Female,43,Nairobi,2025-03-05,155,62.8,26.1,123,81,36.3,A-,Upper Respiratory Tract Infection,No
+PT-0176,Collins Wambui,Male,46,Nairobi,2025-12-27,188,85.9kg,24.3,105,62,38.5,O+,Pneumonia,No
+PT-0280,Amina Achieng,Female,22,Mombassa,2025-12-05,167,72.9,26.1,105,66,-1,B+,Upper Respiratory Tract Infection,TRUE
+PT-0287,Cynthia Njoroge,Female,39,MOMBASA ,2025-11-05,170,57.1,19.8,149,98,-,o+,PNEUMONIA,No
+PT-0125,Amina Abdi,Female,34,Nairobi,19/10/2025,153,62.8,26.8,128,85,37.6,o+,Malaria,No
+PT-0180,Lucy Njoroge,Female,21,machakos,07.05.2025,169, 74.4 ,26.0,,82,101.5 F,O+,PNEUMONIA,FALSE
+PT-0314,Samuel Kiplagat, Male,45,Mombassa,,1.75m,77.9,15.9,-1,70,38.0,O+,Malaria,NO
+PT-0114,Wanjiru Kariuki,F,19,Kiambu,24/03/2025,155,61.5,25.6,90,55,38.7,B+,PNEUMONIA,YES
+PT-0136,Oscar Wambui,male,53,Machakos,26.02.2025,171,75.3,25.8,110,70,38.0, O+ ,Pneumonia,Yes
+PT-0055,  Mercy Nyambura ,,35,Machakos,2025-07-11,168,79.0,28.0,118,71,38.7,OPOS,,Yes
+PT-0355,Joyce Achieng,Female,,Nakuru,2025-02-08,,61.2 kg,24.2,112,73,-1,B+,typhoid,No
+PT-0056,Daniel   Chebet,Male,53,Mombasa,2025-10-11,171,64.8,22.2,111,67,35.6,A+,Diabetes type 2,no
+PT-0397,Wanjiru Omondi,female,49, Nakuru,28-Aug-2025,159,53.6,21.2,144,94,38.7,O-,Typhoid fever,N
+PT-0154,lucy njoroge,Female,58,Kiambu,2025-04-05,156,54.2,22.3,102,67,36.4,B+,Type II Diabetes,Yes
+PT-0042,Mercy Omondi,Female,49,Mombasa,2025-04-08,153,-,26.5,119,70,97.5,O+,Upper Respiratory Tract Infection,no
+PT-0017,Samuel Mutua,Male,57,Nairobi,2025-08-23,174,80.3,26.5,134,88,36.9,B+,Type 2 Diabetes,No
+PT-0309,Halima Wambui,Female,365,NAKURU,2025-03-10,157,62.8,25.5,115,76,36.2,not recorded,URTI,yes
+PT-0191,Samuel   Otieno,Male,71,Kisumu,2025-07-26,1.59m, 70.9 ,28.0,122,70,36.9,,Type 2 Diabetes,NO
+PT-0211,Purity Chebet,Female,76,MOMBASA ,2025-04-05,165,66.1,24.3,142,,37.2,O+,Hypertension,FALSE
+PT-0241,Victor Kariuki,Male,44,Nairobi,2025-02-03,173,52.7,17.6,134,85,97.9,B positive,Type 2 Diabetes,FALSE
+PT-0324,Ian Abdi, Male,34,Nairobi,2025-04-19,165,82.5,,120,71,36.1,O+,Type II Diabetes,No
+PT-0318,Mercy Kiplagat,Female,64,Kiambu,"March 12, 2025",160,64.9,25.4,148,99,37.3,O+,Hypertension,No
+PT-0359,George Njoroge,Male,45,Machakos,2025-09-09,169,87.8,30.7,109,65,38.5, O+ ,Malaria,No
+PT-0089,samuel wambui,Male,23,Nairobi,"January 05, 2025",179,94.0,29.3,107,66,36.7, O+ ,Upper resp. tract infection,Yes
+PT-0290,Ian Mwangi,M,50,,2025-02-20,168,87.4,31.0,136,88,37.2,A+,Type 2 Diabetes,N
+PT-0340,Ian Achieng,Male,18,mombasa,2025-06-14,164, 67.6 ,25.1,107,65,36.4°C,O+,urti,YES
+PT-0345,Tabitha Njoroge,Female,62,Kiambu,2025-09-04,163,83.8,31.5,146,84,36.5 C,O+,Hypertension,N
+PT-0268,Brian Barasa,n/a,42,Kisumu,2025-10-23,169,80.9,0,101,63,99.0,A+,type 2 diabetes,No
+PT-0283,Grace Otieno,Female,27,Kiambuu,2025-08-17,1.65 m,46.3,,,72,36.8,O+,Upper Respiratory Tract Infection,No
+PT-0205,Moses Barasa,Male,30,Nairobi,2025-07-19,167,73.7,26.4,127,75,38.2,O+,Maleria,Yes
+PT-0027,David Mwangi,Male,58,Kiambu,01-Feb-2025,173,94.9 KG,31.7,119,77,-,AB pos,Upper Respiratory Tract Infection,No
+PT-0045,Purity Omondi,Female,52,nakuru,2025-02-10,160 cm,73.5,34.7,116,68,38.7,O+,Typhoid,No
+PT-0050,Amina Omondi,F,39,nakuru,2025-07-14,159,71.4,28.2,119,79,12.0,A+,Typhoid,YES
+PT-0236,Joyce Achieng,Female,29,Kiambu,01.03.2025,165cm,79.8,29.3,124,,38.0,A pos,Pneumonia,No
+PT-0084,Amina Kiplagat,not recorded,51,kisumu,2025-09-20,1.61 m,66.7,0,,100,36.7,O neg,Hypertension,No
+PT-0012,Mercy Otieno,N/A,24,Nairobi,20.03.2025,147,44.5kg,20.6,130,83,38.4,O+,Pnuemonia,Yes
+PT-0266,Halima Wambui,Female,26,Nairobi,2025-01-09,168,73.9,26.2,118,75,38.4,A+,TYPHOID,No
+PT-0370,Tabitha Kiplagat,Female,18,Mombasa,23.03.2025,158,55.8,22.4,133,85,36.9,B+,Upper Respiratory Tract Infection,?
+PT-0368,Moses Mutua,Male,50,Kisumu,2025-10-14,1.77,86.9kg,,104,64,35.8,A positive,Upper Respiratory Tract Infection,0
+PT-0159,Lucy Kiplagat,FEMALE,33 yrs,?,2025-11-03,1.70m,96.5,33.4,108,69,12.0,O+,Type 2 Diabetes,No
+PT-0013,Faith Otieno,Female,33,Kisumu,2025-02-11,,67.9,25.9,140,89,37.6,O+,Hypertention,NO
+PT-0352,Cynthia   Njoroge,Female,43,Nakuru,18.10.2025,153,51.2,21.9,128,76,36.2,not recorded,Upper Respiratory Tract Infection,No
+pt-0138,Halima Achieng,Female ,62,Nairobi,19-Aug-2025,172,77.8,26.3,122,?,98.8,B+,Type II Diabetes,NO
+PT-0088,Yusuf Barasa,Male,71,Kiambu,23-Feb-2025,183,102.9 kg,30.7,125,81,36.2,O+,type 2 diabetes,NO
+PT-0054,Moses Kariuki,Male,19,Machakos,2025-10-16,,71.6,25.1,113,75,39.1,ABPOS,Maleria,Yes
+PT-0226,George Wafula,Male,21,kiambu,,1.74m,70.7,23.4,NULL,63,38.8,b+,Malaria,N
+PT-0062,Quentin Achieng,Male,40 years,Nairobi,30-Oct-2025,1.83,74.0,22.1,126,83,38.0,O+,Malaria,No
+PT-0166,Collins Kamau,Male,61,nairobi,02/12/2025,1.66m,59.3,21.5,154,101,36.4,O+,Hypertension,FALSE
+pt-0251,Kevin Kiplagat,,58,Machackos,03/02/2025,165,68.6,25.2,123,80,37.5,O-,Upper Respiratory Tract Infection,Yes
+PT-0187,Wanjiru Nyambura,Female,59,Nairobi,2025-11-14,164,82.2,30.6,117,74,37.6,O+,Hypertension,Yes
+PT-0147,George Kiplagat,male,18,Nakuru,2025-07-29,152,74.0,38.0,104,62,38.8,O+,Malaria,No
+PT-0160,Joyce Barasa,Female,61,Kiambu,2025-08-05,158,62.4,25.0,107,70,36.9,O+,Type 2 Diabetes,NO
+PT-0170,  Oscar Otieno , Male,37 yrs,Mombasa,2025-04-11,, 72.4 ,24.2,134,87,38.3°C,A+,MALARIA,No
+PT-0103,Purity Mutua,F,35,n/a,09.10.2025,173,72.7,24.3,0,79,37.2,BPOS,Typhoid fever,NO
+PT-0313,Moses Barasa,Male,38,NAKURU,22.03.2025,185,70.7,unknown,147,87,36.7,BPOS,Hypertension,No
+PT-0361,Moses Nyambura,,-4,Kisumu,2025-09-28,178,91.5,28.9,135,87,36.8,O+,T2DM,No
+PT-0029,george mwangi,Male,35,Kisumu.,25-Aug-2025,169,89.5,31.3,114,75,38.8,O+,Typhoid,No
+PT-0208,NAOMI CHEBET,Female,48,Machakos,2025-02-25,165,58.4,21.5,123,73,36.3,O+,Upper Respiratory Tract Infection,No
+PT-0107,Ian Njoroge,Male,999,Nairobi,2025-09-15,173, 69.3 ,23.2,144,92,37.0,B+,Hypertension,No
+PT-0118,Naomi Njoroge,female,38 years,NRB,"September 16, 2025",1.51m,NULL,26.6,109,72,36.7,AB+,Upper Respiratory Tract Infection,not recorded
+PT-0297,Peter Nyambura,Male,25,Kisumu,2025-09-18,173,80.0,26.7,111,73,38.7,O+,Malaria,NO
+PT-0377,Daniel Wambui,Male,24,Nairobi County,2025-10-25,1.71,86.1,29.4,109,63,38.5,B+,Malaria,No
+PT-0316,Moses   Chebet,Male,50,Kisumu,2025-07-19,177cm,96.5,30.8,133,81,38.7,A+,Malaria,FALSE
+PT-0138,Halima Achieng,Female ,62,Nairobi,19-Aug-2025,172,77.8,26.3,122,?,98.8,B+,Type II Diabetes,NO
+PT-0083,Ian Nyambura,M,47,Machakos,2025-04-05,183,104.1,31.1,95,61,12.0,O+,Type 2 Diabetes,Yes
+PT-0053,Mercy Mutua,F,27,Nairobi,17-Sep-2025,178, 73.9 ,23.3,122,73,102.0 F,A+,pneumonia,Yes
+PT-0131,Kevin Kariuki,Male,45,Kiambu,2025-09-02,173,86.6kg,28.9,110,70,38.1,,PNEUMONIA,no
+PT-0145,Amina Kariuki,Female,33,NAIROBI,2025-02-02,1.54m,69.5,29.3,117,77,36.0,O+,Upper resp. tract infection,No
+PT-0099,Joyce Barasa,Female,,Kiambu,"September 14, 2025",155,61.1,25.4,112,66,,A+,Malaria,Yes
+PT-0199,Zawadi Chebet,Female,,Kiambuu,2025-12-20,151,55.5,24.3,169,113,37.0,O+,Hypertention,No
+PT-0305,Joyce Chebet,Female,46,Kisumu,2025-07-10,156,41.4,17.0,114,71,39.1,,Malaria ,Yes
+PT-0213,Faith Otieno,female,60,Kiambu,16.04.2025,NULL,50.7,22.5,116,73,38.2,OPOS,Pneumonia,NO
+PT-0220,Samuel Mutua,Male,35,Kiambu,2025-08-21,155,54.5,22.7,156,93,37.1 C,O+,Hypertension,No
+PT-0230,Hassan Abdi,MALE,40,Kiambu,08/12/2025,190,80.0,22.2,132,80,38.1,O+,Pneumonia,no
+PT-0106,Yusuf Kamau,Male,45,Mombasa,2025-03-22,174,81.3,26.9,149,97,36.8,A+,Hypertension,n/a
+PT-0138,Halima Achieng,Female ,62,Nairobi,19-Aug-2025,172,77.8,26.3,122,?,98.8,B+,Type II Diabetes,NO
+PT-0233,Zawadi Kamau,Female,43,-,2025-05-20,170,66.7,23.1,170,110,36.1,A+,Hypertension,No
+PT-0206,George Achieng,male,40,Kiambu,2025-05-22,178 cm,75.9,24.0,,63,98.8F,,Upper Respiratory Tract Infection,No
+PT-0104,Esther Achieng,Female,38,Machakos,2025-11-11,166,68.3,24.8,135,85,38.7,A+,Pneumonia,No
+PT-0203,Zawadi Barasa,Female,39,Nairobi,09.01.2025,156,71.6,29.4,146/93,n/a,36.2,N/A,Hypertention,No
+PT-0078,Tabitha Abdi,female,55,Kiambu,2025-05-29,1.48,64.4,29.4,156,90,37.4,O+,Hypertension,Yes
+PT-0009,Hassan Kariuki,Male,35,Nakuru,2025-03-27,173cm,108.1,36.1,76,116,-1,B+,Diabetes type 2,
+PT-0003,Lucy Kariuki,Female,55,Nakuru,2025-05-14,153cm,60.2,25.7,106/70,,100.9,,Malaria,Yes
+PT-0269,Ruth Abdi,F,18,Mombasa,2025-03-05,156,52.9,21.7,129,80,38.9,B-,MALARIA,No
+PT-0201,George Kamau, Male,35,NAIROBI,2025-02-07,170,92.2,31.9,123,72,36.6,-,T2DM,N/A
+PT-0387,oscar chebet,male,999,Nairobi,06-Jul-2025,NULL,68.3,23.4,125,76,38.7,B+,Pneumonia,No
+PT-0026,Purity Abdi,Female,N/A,NRB,2025-05-24,157, 77.8 ,31.6,119,79,38.3 C,O positive,,No
+PT-0256,Amina Kiplagat,Female,53,MOMBASA ,2025-07-16,154,55.4,23.4,109,69,97.7 F,,Type 2 Diabetes,1
+PT-0285,Brian Omondi,Male,33,Machackos,2025-01-06,159,63.5,25.1,124,73,39.0,B+,Pneumonia,No
+PT-0051,David Kiplagat,Male,26,Kisumu,2025-10-22,180,96.1,29.7,112,68,38.0, B+ ,Pneumonia,Yes
+PT-0086,Ruth Wambui,Female,36,Nakuru,2025-11-04,164,76.2,28.3,125,84,38.0°C,B+,Typhoid,yes
+PT-0346,Victor Nyambura,Male,31,Kisumu,"February 14, 2025",170,80.1,27.7,128,74,36.2 C,O+,T2DM,No
+PT-0023,Purity Mwangi,Female,66,Kiambu,2025-01-17,167,53.6kg,49.2,122,72,96.6,B+,Upper Respiratory Tract Infection,No
+PT-0063,Zawadi Otieno,Female,35,Nairobi,2025-11-18,164,59.6,NULL,121,81,101.1F,O-,Typhoid,No
+PT-0100,Victor Kariuki,M,40,Nakuru,2025-03-23,158,66.8,26.8,113,76,39.1,O+,Pneumonia,No
+PT-0070,Oscar Otieno,Male,,Nakuru,2032-03-11,171,87.1,29.8,119,78,38.2,A-,Malaria,No
+PT-0321,Faith Omondi,Female,72,,2025-09-10,1.63m,70.8,26.6,127,85,36.8,O+,URTI,No
+PT-0276,Samuel Achieng, Male,77,,09/09/2025,160,67.9,26.5,158,98,97.7,B+,Hypertension,No
+PT-0337,Hassan Nyambura,N/A,28,mombasa,2025-02-09,168,71.7,25.4,106,62,103.3 F,A+,MALARIA,No
+PT-0185,David Abdi,male,27,Kisumu,31/06/2025,161,55.4,21.4,113,69,-1,O+,Upper resp. tract infection,No
+PT-0244,Yusuf Kariuki,Male,54,NAIROBI,30/12/2025,176, 77.6 ,25.1,122,74,36.1,A+,Upper Respiratory Tract Infection,Yes
+PT-0096,Grace Barasa,Female,28,Nairobi,2025-09-07,166,72.1,,133,81,39.0,O+,Malaria,No
+PT-0152,naomi chebet,FEMALE,31,Kisumu.,2025-06-22,151 cm,62.3,23.3,144/92,,37.0,b+,T2DM,No
+PT-0296,Lucy   Chebet,Female,53,Kiambu,22/12/2025,165,60.4,22.2,115,76,38.6,O+,Typhoid,N
+PT-0030,Amina Achieng,Female,18,Mombasa,2025-08-30,1.59m,66.4,26.3,157,93,36.6, O- ,Hypertension,no
+PT-0234,Joyce Achieng,female,28,Nairobi,"June 23, 2025",171cm,79.3,,120,73,37.9,O pos,MALARIA,Yes
+PT-0291,Oscar Nyambura,Male,65,,15-Jun-2025,167, 69.7 ,25.0,133,82,36.7 C,APOS,Type 2 Diabetes,Yes
+PT 0036,kevin nyambura,M,36,Kiambuu,22/01/2025,1.87 m,82.5 KG,23.6,n/a,91,37.0,O+,Upper Respiratory Tract Infection,No
+PT-0385,Tabitha Otieno,Female ,19,KISUMU,2025-10-25,162,80.6,30.7,,77,-1, A+ ,urti,No
+PT-0202,Quentin Wambui,Male,57,Nakuru,2025-04-06,170,77.5,26.8,102,66,36.6,A+,type 2 diabetes,No
+PT-0363,  Hassan Kariuki ,Male,22,Machackos,05/03/2025,175,68.1,22.2,156,97,98.4 F,A positive,Hypertention,Yes
+PT-0392,Quentin Wafula,male,62,Mombasa,10.01.2025,170, 65.1 ,22.5,140,87,36.3 C,O+,HTN,N
+PT-0117,Kevin Kamau,Male,55,Mombassa,2025-03-26,178 cm,77.9kg,24.6,109,68,36.3,O+,Upper Respiratory Tract Infection,no
+PT-0087,Lucy Wambui,Female,20,Kiambu,2025-07-25,159,74.0,-,100,66,37.3,O+,Malaria,NO
+PT-0362,Quentin Mutua,Male,42yrs,Nairobi,2025-03-20,179,70.9,22.1,116,69,36.9,,HTN,No
+PT-0124,Daniel Njoroge, Male,61,Kiambu,2025-01-09,174,53.6,17.7,125/75,,36.4,B+,Type 2 Diabetes,No
+PT-0047,Mercy Abdi,Female,38,Kisumu,"May 10, 2025",168 cm,90.0,31.9,,N/A,37.3, O- ,Hypertension,FALSE
+PT-0004,SAMUEL ABDI,Male,32,Nakuru,2025-06-07,176,88.3,28.5,123,79,97.5,A+,Upper Respiratory Tract Infection,FALSE
+PT-0113,Wanjiru Mutua,female,58,machakos,2025-09-19,1.51m,63.6,27.9,106,63,99.9F,OPOS,Type 2 Diabetes,TRUE
+PT-0184,Hassan Achieng,Male,70,Nairobi,08.06.2025,1.79,54.5,17.0,126,84,37.0,O+,Hypertension,No
+PT-0031,HASSAN CHEBET,Male,55,Nairobi,2025-02-04,184,95.0,28.1,131,82,36.2,ABPOS,Upper Respiratory Tract Infection,No
+PT-0155,Wanjiru Kamau,Female,18,Kiambu,"February 03, 2025",161,65.6,25.3,114,71,37.7,O+,Typhoid,No
+PT-0282,Ian Nyambura,Male,65,Nakuru,14.07.2025,,86.3,27.9,172,104,36.2,B pos,Hypertension,no
+PT-0095,Mercy Achieng,Female,22,Kiambu,"November 18, 2025",174cm,59.1kg,19.5,118,72,38.2,A+,MALARIA,FALSE
+PT-0332,Tabitha Wafula,Female ,37,not recorded,2025-02-21,165,52.5 KG,19.3,133,84,37.5,B+,Malaria,YES
+PT-0383,George Kariuki,Male,58,Nairobi,2025-02-11,186,76.1 KG,28.0,156,103,36.5,O+,Hypertention,yes
+PT-0052,Lucy Kiplagat,Female ,49,MOMBASA ,2025-09-25,161, 72.3 ,unknown,101,61,38.7,A+,Pneumonia,Yes
+PT-0037,Tabitha Abdi,FEMALE,28,Nakuru,2025-06-22,1.65m,56.4,20.7,122,73,102.2F,A-,TYPHOID,No
+PT-0098,Purity Kariuki,Female,52,Kisumu,2025-01-30,157,53.3,21.6,154,98,36.8,o+,Hypertension,No
+PT-0277,Samuel   Mutua,Male,unknown,NAKURU,2025-07-24,177,64.3kg,20.5,140,91,37.3,O-,Upper Respiratory Tract Infection,NO
+PT-0014,Lucy Mwangi,,26,Machakos,09/03/2025,167,unknown,19.3,115,70,38.8,?,Typhoid,No
+PT-0164,ESTHER NYAMBURA,Female,41,Nairobi,N/A,1.52m,54.4,23.5,126,75,38.9 C,A+,Malaria,No
+PT-0059,Joyce Nyambura,Female,35,,,164,70.0 KG,26.0,123,81,37.0,,Upper Respiratory Tract Infection,Yes
+PT-0261,David Nyambura,Male,30,,2025-08-21,173,89.4,29.9,135,83,36.9,B+,Upper Respiratory Tract Infection,No
+PT-0235,Wanjiru Barasa,Female,34,Nairobi,07-Jun-2025,not recorded,82.5,30.7,129,87,36.5,O+,T2DM,not recorded
+PT-0248,VICTOR NJOROGE,Male,70,Nairobi,29.10.2025,165,62.7,23.0,112,67,37.3,AB+,Type 2 Diabetes,No
+PT-0311,David Nyambura,Male,,Nakuru,19-Dec-2025,169cm,73.5,25.7,123,76,37.1,A pos,Upper Respiratory Tract Infection,Yes
+PT-0312,Moses   Kariuki,Male,NULL,nakuru,2025-11-14,183,92.7,27.7,124,83,37.3 C,,Upper Respiratory Tract Infection,N/A
+PT-0319,Samuel Nyambura,Male,18,Kisumu,2025-12-17,194,97.8,26.0,115,76,36.6,O+,urti,Yes
+PT-0010,Kevin Otieno,Male,54,Nairobi,"August 28, 2025",172,80.1,27.1,400,92,36.4,A+,Hypertension,NO
+PT-0295,Naomi Kamau,female,26,Kisumu,2025-06-10,1.68 m,N/A,21.6,74,124,39.4,N/A,Pneumonia,No
+PT-0129,Tabitha Wafula,Female,49,Nairobi,2025-06-22,,75.0,28.9,119,70,39.4,A+,Maleria,No
+PT-0326,Lucy Achieng,Female ,47,Nairobi County,2025-11-17,158,59.1,23.7,162,99,37.1,O+,Hypertension,N
+PT-0079,Faith Mwangi,Female,34,Nairobi,2025-06-17,168,67.1,23.8,129,84,39.2,O+,Malaria,No
+PT-0046,Quentin Chebet,Male,56,Nairobi,10/11/2025,17.9,56.7,17.7,129,85,36.9,A+,Upper Respiratory Tract Infection,No
+PT-0116,Yusuf Barasa,Male,,Nairobi,2025-07-29,176, 52.7 ,17.0,105,65,38.3,O positive,Typhoid fever,not recorded
+PT-0342,Quentin Wafula,Male,41,Kisumu,02.02.2025,166,65.2,23.7,113,70,38.1,O+,Malaria,No
+PT-0158,Purity Kiplagat,Female,36,Nairobi County,2025-06-14,161,46.7,18.0,71,119,38.5,,Malaria,No
+PT-0025,Wanjiru Barasa,Female,130,Nakuru,01.07.2025,163,51.4,19.3,149,91,38.7,O+,Malaria,No
+PT-0259,Moses Otieno,Male,40,Kiambu,2025-09-17,182,93.1,28.1,149,91,37.8,a+,Hypertension,No
+PT-0279,Joyce Omondi,Female,46,KIAMBU ,2025-02-23,158,61.3,24.6,,69,37.7,O positive,Upper Respiratory Tract Infection,No
+PT-0369,Peter Wafula,Male,42,Kiambu,2025-06-05,185,91.0,26.6,115,73,101.8 F,B+,malaria,FALSE
+PT-0239,Ian Nyambura,M,62,Kisumu,2025-05-06,183,77.7,23.2,134,86,37.1,NULL,Type 2 Diabetes,NO
+PT-0127,Mercy Mutua,Female,19,nakuru,30/05/2025,1.59,61.5,24.3,113,67,36.0°C,O+,Upper Respiratory Tract Infection,
+PT-0349,Zawadi Kamau,Female ,61yrs,Nairobi,12.10.2025,162,67.3,25.6,118,72,38.7,O pos,Malaria,FALSE
+PT 0227,Moses Abdi,Male,49,Kisumu,11/06/2025,171,72.4,24.8,124,82,38.5,OPOS,MALARIA,
+PT-0348,Lucy Kariuki,-,74,Kiambu,2025-10-17,1.60m,61.9,24.2,122,77,36.7,O+,Type 2 Diabetes,0
+PT-0034,Moses Wambui, Male,34,Mombasa,2025-01-13,?,85.0 kg,27.4,136,88,37.8,AB+,Malaria,NO
+PT-0289,Oscar Otieno,Male,48,Nakuru,2025-12-09,183,,27.1,113,72,99.0F,-,Type 2 Diabetes,No
+PT-0123,Brian Wambui,MALE,62,mombasa,2025-11-06,,61.9,21.9,138,87,36.3,A+,High blood pressure,Yes
+PT-0221,Victor   Kiplagat,Male,65,Nairobi,2025-07-07,17.5,91.7,29.9,111,,,OPOS,Type 2 Diabetes,No
+PT-0064,purity kamau,FEMALE,24,Kisumu,06/12/2025,1.70 m,74.7,25.8,129,84,102.2 F,N/A,Typhoid,No
+PT-0272,Ruth Wafula,Female,77,Nakuru,2025-09-30,152,60.2,26.1,148,99,97.0F,B-,Hypertension,Y
+PT-0067,Oscar Barasa,Male,32,Nairobi,,182cm,94.5kg,28.5,104,70,37.0,O+,Upper Respiratory Tract Infection,No
+PT-0195,Samuel Omondi, Male,61,Kisumu,2025-01-07,175,87.2 kg,28.5,116,69,39.0,o+,Typhoid,no
+PT-0178,Naomi Barasa,F,42,Nairobi,02.02.2025,163,72.5 kg,27.3,121,73,36.6,A+,Upper Respiratory Tract Infection,Yes
+PT-0207,ian barasa,Male,43,Kisumu,2025-07-20,169,77.5,27.1,140,82,37.4,A+,Type II Diabetes,No
+PT-0128,Moses Omondi,Male,42,NAIROBI,2025-03-25,177,87.0,27.8,117,69,102.9 F,O+,Pneumonia,no
+PT-0286,Brian Barasa, Male,39,Nairobi,2025-07-02,177,78.0,24.9,115,68,38.2,B pos,Malaria,No
+PT_0060,Victor Mwangi,Male,37,Nakuru,10-Dec-2025,166,75.2kg,27.3,132,84,36.7°C,A+,Upper Respiratory Tract Infection,no
+PT-0376,Kevin Barasa,n/a,40,Machakos,27.12.2025,155,74.3,,123,82,39.6,AB pos,MALARIA,No
+PT-0008,Victor Kariuki,Male,29,Kisumu,2025-06-29,173,80.4,26.9,125,84,38.3,A+,pneumonia,No
+PT-0001,George Otieno,Male,70,Nairobi,1925-05-20,177,84.1,26.8,117,69,,A-,,Yes
+PT-0227,Moses Abdi,Male,49,Kisumu,11/06/2025,171,72.4,24.8,124,82,38.5,OPOS,MALARIA,
+PT-0218,Lucy Kiplagat,Female,n/a,Nakuru,"November 24, 2025",165,62.7,23.0,113,71,38.7,O+,Malaria,No
+PT-0267,Amina Kiplagat,Female,34,Machakos,"April 22, 2025",149,59.4,26.8,134,90,38.7,ab+,Typhoid fever,
+PT-0122,Halima Omondi,Female,78,,03.08.2025,159,53.1kg,21.0,118,79,37.4,,Hypertension,NO
+PT-0109,Grace Kamau,Female,42,kiambu,2025-08-15,155,53.6 kg,22.3,151,98,36.4,AB+,Hypertension,no
+PT-0171,Kevin Kamau,Male,20,Mombasa,2025-12-11,165,635.0,23.3,119,69,38.5,A+,-,NO
+PT-0194,Brian Chebet,Male,37,Machakos,,171cm,54.6,18.7,118,77,39.3,B+,Malaria,No
+PT-0212,Purity Wambui,Female,27,Nairobi,n/a,155,41.3,17.2,146,97,37.7,,Hypertension,0
+PT-0006,Kevin Nyambura,unknown,30,Nakuru,2025-07-02,1.66m,57.8,21.0,109,71,38.1,O+,,No
+PT-0005,Tabitha Kariuki,Female,78,Nairobi,2025-07-20,173,84.7,28.3,113,72,38.4,B+,Pneumonia,N
+PT-0378,Ian Mutua,Male,61,NRB,"November 21, 2025",180,67.9,21.0,155,90,36.7,A+,Hypertension,no
+PT-0058,Samuel Kariuki,Male,38,Kiambu,2025-09-22,1.71 m,88.4,30.2,102,62,38.6°C,A+,Pneumonia,0
+PT 0088,Yusuf Barasa,Male,71,Kiambu,23-Feb-2025,183,102.9 kg,30.7,125,81,36.2,O+,type 2 diabetes,NO
+PT-0380,Purity Kamau,Female,42,Machakos,2025-11-10,1.47m,44.8,20.7,118,73,99.0 F,A+,Upper Respiratory Tract Infection,No
+PT-0060,Victor Mwangi,Male,37,Nakuru,10-Dec-2025,166,75.2kg,27.3,132,84,36.7°C,A+,Upper Respiratory Tract Infection,no
+PT-0222,Hassan Njoroge,Male,18,Nairobi County,2025-07-14,170,70.6,24.4,400,74,39.1,B+,Typhoid,FALSE
+PT-0381,Hassan Mwangi,MALE,18,Kisumu,2025-04-13,175,74.4,24.3,103,68,39.2,O+,Malaria,No
+PT-0048,Samuel Kiplagat,MALE,43,Nakuru,2025-04-14,167,75.5,27.1,144,93,36.8,O+,Hypertension,No
+PT-0273,Quentin Otieno,male,,Nakuru,"April 24, 2025",177,76.0 KG,24.3,152,94,98.6 F,O+,Hypertension,-
+PT-0121,Zawadi   Chebet,Female,32,nairobi,2025-06-08,168,999,29.7,123,81,39.6 C,O+,Malaria ,1
+PT-0247,Oscar Barasa,MALE,40,Machakos,2025-03-08,190,81.5,22.6,138,80,36.9,A+,Hypertension,Yes
+PT-0308,David Otieno,Male,21,Nakuru,2025-07-21,170,79.5,27.5,111,-,37.3,,URTI,No
+PT-0167,Halima Chebet,F,30,Nairobi,"September 19, 2025",,67.7,25.5,115,74,38.5,B+,Pneumonia,No
+PT-0310,Hassan Wafula,male,70,Nakuru,2025-06-18,1.86 m,83.0 KG,24.0,159,105,36.7, O+ ,Hypertension,No
+PT-0210,HASSAN ABDI,Male,37,kisumu,"October 16, 2025",169,,21.9,91,55,38.5,O+,Pneumonia,NO
+PT-0292,Amina Barasa,Female,40,Nakuru,2025-08-27,166,49.1,17.8,108/63,,38.5,B-,Pneumonia,Yes
+PT-0223,Yusuf Wambui, Male,30,Nairobi,2025-07-28,163,47.0,17.7,114,66,101.1 F,o+,pneumonia,1
+PT-0214,Grace Mwangi,Female,N/A,KIAMBU ,29-May-2025,1.52 m,,24.3,132,85,38.8,A+,Malaria,no
+PT-0323,COLLINS KIPLAGAT,male,65,Kisumu,02/06/2025,170,65.6 KG,22.7,158,94,36.7,B+,Hypertension,No
+PT-0293,Purity Otieno,Female,30 years,Kisumu,29/11/2025,163,63.8,24.0,115,68,38.8,OPOS,Pneumonia,Yes
+PT-0271,BRIAN MWANGI,Male,18,Kiambu,2025-03-09,179,64.8,20.2,109,73,38.4 C,B+,Pneumonia,N
+PT-0043,Grace Njoroge,Female ,18,Machakos,2025-03-20,155,56.6 kg,n/a,128,75,37.8,o-,Type 2 Diabetes,0
+PT-0382,Zawadi Kamau,Female,63,Mombasa,02-Feb-2025,162, 82.5 ,31.4,118,77,36.0,O+,Diabetes type 2,
+PT-0357,Naomi Kamau,F,,Mombassa,2025-08-15,1.50,46.9,20.8,164,97,96.6 F,A pos,hypertension,NO
+PT-0306,Grace Achieng,Female ,40,Kiambu,2025-07-27,159,67.4,26.7,147,92,37.1,A positive,Hypertension,Yes
+PT-0077,Tabitha Achieng,Female,59,Nairobi,2025-01-28,169,86.2,30.2,140,84,36.9,B+,Hypertention,No
+PT-0366,Hassan Chebet,male,56,Mombassa,16/09/2025,174,100.3,33.1,113,,36.6,O+,Diabetes type 2,Yes
+PT-0374,  Daniel Omondi ,Male,67,Kiambu,24-Nov-2025,167,NULL,20.8,161/107,,36.4,A+,High blood pressure,N
+PT-0074,Samuel Mutua,Male,37,Kisumu.,14/06/2025,1.81,65.7,20.1,-1,NULL,39.2,B+,Pneumonia,FALSE
+PT-0300,Joyce Mutua,Female,57,Nairobi,"February 09, 2025",158,59.5,23.8,120,75,38.7,A+,Pneumonia,0
+PT-0354,Collins Barasa,M,35,Kisumu,"November 06, 2025",171,63.4,21.7,114/67,,38.5,O+,Typhoid,No
+PT-0299,Yusuf Wambui,,50,Kisumu,2025-06-07,169,65.2,22.8,120,79,36.9,B-,Upper Respiratory Tract Infection,No
+PT-0153,Amina Achieng,Female,37,Nakuru,2025-09-14,161,78.8 kg,30.4,119,69,38.5,B+,PNEUMONIA,No
+PT-0033,Peter Otieno,M,52,Nakuru,2025-05-15,171,92.1,31.5,126,83,37.5,O+,Type 2 Diabetes,NO
+PT-0016,Tabitha Achieng,Female ,32,Nairobbi,07/11/2025,162 cm,,23.2,134,86,,A positive,Upper Respiratory Tract Infection,No
+PT-0108,Collins Njoroge, Male,46,Machackos,2025-11-12,176,70.3 KG,22.7,134,82,36.9,O+,URTI,Yes
+PT-0314,Samuel Kiplagat, Male,45,Mombassa,,1.75m,77.9,15.9,-1,70,38.0,O+,Malaria,NO
+PT-0148,Wanjiru Kiplagat,Female,41 years,Machakos,2025-07-24,175 cm,55.1,18.0,129,78,37.7,n/a,Typhoid,Yes
+PT-0255,Brian Mwangi, Male,38,,2025-07-23,177,77.3,24.7,115,unknown,36.3,A+,,no
+PT-0036,kevin nyambura,M,36,Kiambuu,22/01/2025,1.87 m,82.5 KG,23.6,n/a,91,37.0,O+,Upper Respiratory Tract Infection,No
+PT-0226,George Wafula,Male,21,kiambu,,1.74m,70.7,23.4,NULL,63,38.8,b+,Malaria,N
+PT-0173,  Samuel Achieng ,M,36,Nakuru,2025-12-11,171,91.1,31.2,109,67,39.2,,PNEUMONIA,no
+PT-0317,cynthia kariuki,Female ,41,kisumu,2025-08-25,156,60.8,25.0,116,68,38.7,O positive,Malaria,FALSE
+PT-0018,Peter Mutua,Male,42,not recorded,2025-01-29,173,76.5,25.6,122,75,38.6,AB+,Maleria,No
+PT-0157,Daniel Otieno, Male,57,NAKURU,27/02/2025,1.79 m,80.3,25.1,117,79,36.8,B+,Type 2 Diabetes,No
+PT-0391,Tabitha Otieno,Female,51,Kiambuu,"April 28, 2025",156,56.1,23.1,125,78,38.8,,Malaria,No
+PT-0320,Purity Kariuki,female,,Nairobi,2025-07-08,161,59.8,23.1,142,93,98.2F,A+,Type 2 Diabetes,No
+PT-0334,Yusuf Mwangi,Male,50,Kisumu,2025-07-03,177,69.3,-,175,110,36.0,AB+,High blood pressure,No
+PT-0400,Quentin Achieng,Male,50,Machakos,2025-10-03,178,83.4,26.3,135,78,38.7,B+,Malaria,0
+PT-0351,Victor Wafula,Male,64,-,"October 29, 2025",164,63.2,23.5,123,77,36.2,BNEG,Upper Respiratory Tract Infection,-
+PT-0347,Tabitha Wafula,Female,33,Nairobi,08.07.2025,154,n/a,24.0,111,73,36.5,O-,Upper Respiratory Tract Infection,No
+PT-0209,Cynthia Achieng,not recorded,47,Kiambu,2025-04-02,159,67.7kg,26.8,98,62,37.8,B positive,Malaria,
+PT-0065,Yusuf Wafula,Male,56,Nairobbi,2025-11-06,168 cm,67.0,23.7,139,80,36.8,A+,Type 2 Diabetes,No
+PT-0011,hassan omondi, Male,61,machakos,"May 10, 2025",179,,26.8,165,103,36.5,b+,HTN,No
+PT-0360,George Wambui,MALE,,Nairobi,"February 07, 2025",171 cm,93.1kg,31.8,130,76,99.0,O+,T2DM,No
+PT-0112,George   Abdi,Male,56,KIAMBU ,2025-03-28,172,70.2,-,143,unknown,98.8,O+,Hypertension,No
+PT-0399,Kevin Omondi,Male,34,Machakos,2025-10-31,1.67m,65.2,,114,75,38.3,A+,Typhoid,No
+PT-0365,Naomi Njoroge,Female,,Nairobbi,2025-08-12,157 cm,63.9,25.9,136,87,36.7°C,unknown,Upper Respiratory Tract Infection,FALSE
+PT-0325,Lucy Otieno,F,30,Nairobi,2025-03-18,164,74.8,27.8,98,62,36.9,O+,Upper Respiratory Tract Infection,No
+PT-0094,Quentin Nyambura,Male,23,,2025-11-10,168,61.0,21.6,123/78,,98.8 F,OPOS,Upper Respiratory Tract Infection,NO
+PT-0394,  Oscar Achieng ,Male,63,Kiambu,2025-04-19,173,85.9kg,?,115,,98.8F,A+,High blood pressure,Yes
+PT-0294,Wanjiru Otieno,Female,44,Nakuru,n/a,158,57.3 kg,23.0,107,66,38.1,o+,Typhoid,
+PT-0262,Kevin Mutua,Male,39,kiambu,2025-07-31,174,91.0,30.1,123,79,38.9,O-,Maleria,No
+PT-0101,Kevin Kamau,M,49,Nakuru,2025-02-04,16.8,67.6,24.0,135,88,37.0,A+,Hypertension,N
+PT-0168,Halima Omondi,Female,61,Nairobi,2025-10-01,159,67.4,26.7,157,96,36.6,A+,Hypertention,No
+PT-0066,Ian Omondi,Male,37,Mombasa,"December 31, 2025",166,89.3,32.4,126,82,?,O+,Typhoid,No
+PT-0315,Zawadi Barasa,Female,365,Kisumu,10-Apr-2025,1.63,75.7,28.5,98,57,36.8,O+,Upper Respiratory Tract Infection,No
+PT-0242,Cynthia Otieno,Female,33,Kiambu,2025-10-25,154 cm,47.0 kg,19.8,129,77,36.2 C,o+,URTI,yes
+PT-0007,COLLINS KARIUKI,Male,28,Nakuru,21.11.2025,1.88,80.1,22.7,134,81,38.5,O+,Pneumonia,No
+PT-0150,George Wafula,MALE,18,Kisumu,2025-12-09,181,104.6,31.9,114,68,38.3,O positive,Pneumonia,No
+PT-0373,David Achieng,MALE,NULL,Nairobi,2025-08-09,169,62.6,21.9,127,77,not recorded,O+,Pnuemonia,No
+PT-0393,Faith Nyambura,Female,46,Nairobi,2025-06-26,150,57.9,25.7,123,77,36.5 C,,Upper Respiratory Tract Infection,No
+PT-0149,Samuel Wambui,Male,71,Kiambu,02.04.2025,174,80.8,26.7,400,69,36.2,A pos,Upper Respiratory Tract Infection,No
+PT-0330,Oscar Achieng,Male,55,KIAMBU ,06/02/2025,173,90.2,26.1,125,72,39.2,O+,Malaria ,Yes
+PT-0353,David Nyambura,Male,18,Kiambu,2025-12-21,179,62.8 KG,19.6,139,82,37.7,a+,Upper Respiratory Tract Infection,0
+PT-0253,faith achieng,Female,18,Kisumu,20/09/2025,154,?,26.5,,77,39.3,O+,Malaria,N
+PT-0322,Tabitha Kariuki,Female,41,Machakos,2025-10-16,162,64.4,24.5,112,65,36.7,O+,Upper Respiratory Tract Infection,No
+PT-0186,Victor Mwangi,MALE,26,Nairobi,2025-04-28,172,79.8,27.0,,64,38.6,O+,TYPHOID,No
+PT-0142,Quentin Chebet,male,21,Kisumu,08-Feb-2025,174,100.8,33.3,137,91,37.5,A+,Type 2 Diabetes,No
+PT-0133,Collins Abdi,Male,43,Kiambu,2025-02-22,173,68.2,22.8,103,69,38.1,A-,Typhoid,0
+PT-0119,George Wambui,Male,67,NRB,2025-01-31,163,,22.1,115,67,3.7,AB+,malaria,N
+PT-0245,Daniel Mutua,Male,18,Kiambu,22-May-2025,160,66.1,25.8,120/80,,39.5,A-,Malaria,NO
+PT-0288,Cynthia Nyambura,Female,18,Kisumu,2025-09-09,161,61.4,23.7,129,85,36.6,O+,Upper Respiratory Tract Infection,No
+PT-0120,Victor Mwangi, Male,63,NRB,2025-12-24,177,67.5,,130,81,36.2,O-,Type 2 Diabetes,No
+PT-0090,Oscar Abdi,Male,29,Machakos County,2025-07-20,180,64.4,19.9,117,69,38.7,O+,Malaria,No
+PT-0039,Faith Barasa,Female,39,Mombasa,2025-02-18,162,66.8,25.5,149,96,36.3,O positive,Hypertention,n/a
+PT-0358,David Barasa,male,18,kisumu,2025-12-11,1.65 m,82.3,30.2,125,83,38.6,OPOS,Malaria,No
+PT-0307,Esther Kiplagat,Female,32,Kisumu,05/09/2025,153,41.1,17.6,126,82,36.7,A pos,Upper Respiratory Tract Infection,No
+PT-0085,Zawadi Mwangi,Female ,80,Nairobi,2025-03-25,152,65.8,28.5,110,74,37.3,A+,Type 2 Diabetes,no
+PT-0225,George Nyambura,MALE,70,Nairobi County,"August 07, 2025",179,78.3,24.4,unknown,71,37.1,O+,Type 2 Diabetes,No
+PT-0020,Samuel Kiplagat,Male,43,Machakos,2025-06-27,169,65.2,22.8,156/102,,97.5F,A+,Hypertension,No
+PT-0073,Peter Abdi, Male,60,Kiambu,2025-03-22,181,114.4,34.9,125,75,37.3,O+,Type 2 Diabetes,No
+PT-0076,Moses Kiplagat,Male,35,Machakos,10/06/2025,183,100.7,30.1,127,78,99.7 F,AB+,Malaria,N/A
+PT-0265,Zawadi Wambui,Female,59,Kisumu,13-Aug-2025,168,62.7,22.2,119,70,38.8,B-,,NO
+PT-0041,Daniel   Otieno,Male,53,KIAMBU ,2025-02-18,174,97.8,32.3,89,136,37.0,o+,Type 2 Diabetes,No
+PT-0356,Cynthia Kamau,Female,N/A,Kiambu,2025-09-21,155,?,26.8,123,81,37.0,,Upper Respiratory Tract Infection,N
+PT-0111,Purity Omondi,FEMALE,49,Kisumu,05-Jul-2025,1.62m,75.4,28.7,139,85,37.2,A+,Type 2 Diabetes,No
+PT-0304,Brian Nyambura,Male,34,Machakos,2025-09-21,1.72,85.3,28.8,121,79,99.7,N/A,Malaria,FALSE
+PT-0379,Peter Njoroge,Male,59,NRB,11.11.2025,168,80.1,28.4,143,89,37.1,O+,High blood pressure,NO
+PT-0049,David Abdi,Male,68,Mombassa,2025-11-11,180,96.4kg,29.8,164,97,36.7,O+,Hypertension,Y
+PT-0019,George Kamau,Male,53,Nairobi,2025-06-06,169,842.0,29.5,131,83,-1,O+,Type 2 Diabetes,
+PT-0044,Joyce Kariuki,Female,18,Machakos,2025-09-04,?,79.1,28.7,124,82,36.5,B+,Upper Respiratory Tract Infection,No
+PT-0274,Cynthia Kariuki,female,48,Kiambu,2025-04-12,169cm,62.7,22.0,117,69,36.7,BPOS,Upper resp. tract infection,n/a
+PT-0091,Halima Omondi,Female,36,Kiambu,05/03/2025,172, 79.3 ,26.8,158,100,36.9,NULL,HTN,No
+PT-0276,Samuel Achieng, Male,77,,09/09/2025,160,67.9,26.5,158,98,97.7,B+,Hypertension,No
+PT-0335,Tabitha Otieno,Female ,49,Nairobi,2025-05-02,159,59.7,23.6,131,81,37.9°C,,Malaria,FALSE
+PT-0161,Wanjiru Wambui,FEMALE,41,Mombasa,16/04/2025,163,57.6,21.7,118,70,38.9,A+,pneumonia,No
+PT-0115,Kevin Kiplagat,Male,38,Mombasa,"June 17, 2025",172,89.7,30.3,117,68,37.0,B+,urti,No
+PT-0329,David Abdi,Male,44,Nairobi,2025-10-13,168,66.1,23.4,138,86,36.0 C,B positive,Hypertension,FALSE
+PT-0069,KEVIN WAFULA,Male,49,Kisumu,2025-12-14,175,81.0 KG,26.4,117,not recorded,36.8,NULL,Type 2 Diabetes,No
+PT-0216,  Esther Kamau ,Female,28,Kiambu,2025-12-18,152,59.5,not recorded,118/72,,39.2,O+,Malaria,N
+PT-0132,Lucy Kiplagat,Female,59,Mombassa,2025-03-12,156,53.0,21.8,136,83,37.7,O+,Typhoid,
+PT-0002,Ruth Kiplagat,Female,44,Kiambu,2025-10-02,159,76.3,,119,71,36.6,A+,Type 2 Diabetes,No
+PT-0188,Purity Abdi,Female,40,Kisumu,2025-05-16,162,60.7,23.1,114,75,36.5,B+,Upper Respiratory Tract Infection,No
+PT-0228,Halima Mwangi,Female,22,Nakuru,2025-06-04,164,56.8,17.1,107,69,38.8,O negative,Malaria,No
+PT-0179,Amina Chebet,Female,47,Kiambu,2025-01-31,148,55.0,25.1,173,,,B+,Hypertension,Yes
+PT-0328,Victor Mutua, Male,38,Kiambu,"December 29, 2025",174,85.6 KG,28.3,107,69,39.0,O+,Malaria,No
+PT-0182,Oscar Achieng,Male,28,Nairobi,2025-01-26,180,61.8,19.1,114,75,38.2,A+,Typhoid,FALSE
+PT-0134,Yusuf Nyambura,Male,45,Machackos,2025-04-08,173,76.1,25.4,133,77,n/a,A+,Typhoid,FALSE
+PT-0224,Lucy Kariuki,Female,59,Machakos County,2025-04-01,157,60.6,24.6,136,89,99.0,O pos,Diabetes type 2,No
+PT-0249,David Njoroge,,53,kisumu,2025-03-27,1.74m,83.5,27.6,157,95,37.8,B+,Hypertension,FALSE
+PT-0284,David Njoroge,Male,7,Nairobi,2025-12-05,175,56.2,18.4,168,104,37.6,NULL,Hypertention,FALSE
+PT-0169,Faith Mutua,female,45,Nairobi,2025-05-14,162,60.2,22.9,128,85,,A+,MALARIA,0
+PT-0336,Wanjiru Achieng,Female,61,Machakos County,2025-07-28,154, 72.9 ,30.7,115,75,36.4 C,NULL,T2DM,No
+PT-0264,Grace Barasa,Female,61,Kisumu,2025-10-16,164cm,59.3,22.0,,92,37.3,O+,HTN,No
+PT-0143,Samuel Mutua,Male,38,KIAMBU ,04.07.2025,1.75,78.2 kg,25.5,124,74,39.1 C, A+ ,Malaria,No
+PT-0246,Quentin Kiplagat,Male,35,Kisumu,2025-08-16,164,67.9 KG,25.2,137,89,38.7,O+,Pnuemonia,FALSE
+PT-0301,Peter   Wafula,MALE,31,Machakos,18.03.2025,182, 85.2 ,25.7,92,,39.2,ONEG,Malaria,No
+PT-0028,Halima Barasa,Female,42,Machakos,"November 18, 2025",1.55m,60.9,25.3,162,101,97.5F,AB pos,Hypertension,YES
+PT-0139,Faith Otieno,FEMALE,29,Nakuru,29-Jul-2025,,56.2,22.8,128/77,,38.3,B+,Malaria,No
+PT-0364,Victor Mutua,Male,18,Nairobi,2025-02-21,175,84.3,27.5,124,83,37.2,O+,Upper resp. tract infection,NO
+PT-0090,Oscar Abdi,Male,29,Machakos County,2025-07-20,180,64.4,19.9,117,69,38.7,O+,Malaria,No
+PT-0391,Tabitha Otieno,Female,51,Kiambuu,"April 28, 2025",156,56.1,23.1,125,78,38.8,,Malaria,No
+PT-0024,Cynthia Nyambura,female,38,Kiambuu,2025-09-12,166,85.7,31.1,116,76,36.7,AB+,Upper Respiratory Tract Infection,N
+PT-0097,Collins Kariuki,Male,22,Kisumu,30-Apr-2025,163 cm,60.7,22.8,119,79,36.7,O+,Upper Respiratory Tract Infection,No
+PT-0080,Oscar Wambui,Male,27,Kiambu,15.01.2025,158,64.8,26.0,117,78,38.6,B+,Malaria,no
+PT-0033,Peter Otieno,M,52,Nakuru,2025-05-15,171,92.1,31.5,126,83,37.5,O+,Type 2 Diabetes,NO
+PT-0193,RUTH WAFULA,F,,Machakos,"July 29, 2025",158,54.0,21.6,133,77,38.6,O+,Malaria,NO
+PT-0243,Zawadi Achieng,female,37,KIAMBU ,2025-05-09,170,60.2,20.8,179,111,37.3,O+,Hypertension,N
+PT-0371,Quentin Achieng,not recorded,55,Mombassa,17/08/2025,182,85.8,0,119,75,?,B+,T2DM,N
+PT-0172,Quentin Wambui,male,56,Nakuru,2025-12-11,169,65.2 kg,22.8,154,97,36.3, B+ ,Hypertension,N
+PT-0327,Collins Otieno,Male,26,Nairobi,"September 22, 2025",178,N/A,27.5,90,55,37.4,O+,Type 2 Diabetes,no
+PT-0068,Daniel Kamau, Male,55,Kiambu,05-Apr-2025,167,67.1,24.1,119,69,37.3, A+ ,Upper Respiratory Tract Infection,Yes
+PT-0146,Mercy Kariuki,Female,57, Nakuru,2025-11-08,155,55.4 kg,23.1,120,71,38.8,O+,Malaria,No
+PT 0156,Halima Omondi,Female,68,Mombasa,2025-02-20,154,56.0,,125,81,38.6,NULL,NULL,N
+PT-0082,Peter Omondi,Male,46,Nairobi,2025-02-19,172,82.3,0,130,85,37.2,A+,,N
+PT-0232,Brian Chebet,Male,60,Nairobi,2025-03-22,170,78.3,0,130,86,36.2, O+ ,Diabetes type 2,No
+PT-0038,Ian Njoroge,M,50,Nakuru,2032-03-11,173,54.5,18.2,141/83,,37.8,O-,Hypertension,
+PT-0331,Kevin Omondi,Male,44,kisumu,2025-12-15,189,N/A,22.9,107,68,37.6,B positive,Maleria,yes
+PT-0386,David Mwangi,male,44,Nairobi,2025-11-12,180,90.7,,152,99,37.0,O+,HTN,No
+PT-0141,Esther Wambui,Female,,Mombasa,2025-06-01,157,566.0,23.0,137,82,99.5F,O+,Hypertension,No
+PT-0035,Joyce Wafula,Female,25,Mombasa,"January 10, 2025",151,999,20.6,122,76,39.4,O+,Typhoid,No
+PT-0389,Mercy Chebet,Female,42,,"September 17, 2025",158,66.4,26.6,110,-,38.9,A+,Malaria,Yes
+PT-0126,Joyce Chebet,Female,47,KIAMBU ,26-Jan-2025,166,76.9 kg,27.9,145,95,37.2,a+,Hypertension,
+PT-0237,Hassan Achieng,M,34,Nakuru,2025-05-21,1.71,68.5,23.4,122,75,38.7,O+,Pneumonia,No
+PT-0302,Wanjiru Barasa,Female,50 yrs,KIAMBU ,2025-03-14,170,77.0,26.6,120,77,38.9,A+,Typhoid fever,
+PT-0254,COLLINS OMONDI,Male,20,Nairobi,2025-06-09,1.60,63.8,24.9,113/70,,100.0,O+,Malaria,No
+PT-0177,Yusuf Otieno,MALE,33,n/a,26/08/2025,1.82,94.1,0,?,87,36.2,O+,,No
+PT-0093,Oscar Otieno,,48 years,Nakuru,2025-07-03,169cm,69.5kg,24.3,110,66,39.1,O-,Pneumonia,N
+PT-0110,Yusuf Barasa,Male,49,Machakos,06.12.2025,179,95.5,29.8,123,?,36.3, A+ ,Type 2 Diabetes,No
+PT-0281,Collins Abdi,Male,40,KISUMU,2025-05-31,169,74.9,26.2,121,71,38.6,O+,TYPHOID,No
+PT-0339,Yusuf Abdi,Male,35,Kisumu,,178,,27.6,137,88,36.9°C,B+,Upper resp. tract infection,No
+PT-0072,Cynthia Kiplagat,Female,34,Nakuru,2025-10-11,155,62.5,26.0,n/a,58,38.3,A+,Malaria,FALSE
+PT-0162,Ian Kariuki,Male,21,Nairobi,2025-05-04,173,92.0,30.7,105,61,38.6,A positive,PNEUMONIA,No
+PT-0333,David Chebet,Male,40,Nairobi County,2025-11-17,163cm,58.5,22.0,137,88,36.9 C,O+,Upper Respiratory Tract Infection,0
+PT-0270,Ruth Otieno,FEMALE,45,Nakuru,unknown,162,64.5,24.6,122,76,98.4,B+,Type 2 Diabetes,No
+PT-0338,Ruth Wambui,F,65,Nairobi,"October 28, 2025",1.56m,80.1,32.9,141,86,36.7,B+,Type 2 Diabetes,TRUE
+PT-0092,ruth kiplagat,Female,47,Kisumu,12/05/2025,158,62.0,30.8,?,75,39.0,O+,MALARIA,0
+PT-0081,Brian Kamau,Male,36, Nakuru,2025-07-20,168,64.2,22.7,155,103,36.8°C,o+,Hypertension,0
+PT-0192,Amina Barasa,Female,40,Mombassa,06/06/2025,157,66.6,27.0,126,83,37.0,AB+,Type 2 Diabetes,Yes
+PT-0068,Daniel Kamau, Male,55,Kiambu,05-Apr-2025,167,67.1,24.1,119,69,37.3, A+ ,Upper Respiratory Tract Infection,Yes
